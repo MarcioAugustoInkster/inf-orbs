@@ -2,8 +2,8 @@ import { useRef } from 'react';
 import Accordion from "../../components/Accordion/Accordion";
 import Icon from "../../components/Custom/Icon/Icon";
 import Section from "../../components/Custom/Section/Section";
-import { AccordionItemProps } from '../../@types/Accordion.types';
 import { regions } from '../../utils/LazyData/List/Region';
+import { AccordionItemProps } from '../../components/Accordion/AccordionProps';
 
 const Region = () => {
   const menuListRef = useRef<AccordionItemProps[]>([]);

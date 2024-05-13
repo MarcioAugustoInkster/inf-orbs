@@ -1,6 +1,6 @@
 import { FC } from 'react';
-import { IContext } from '../../../@types/Context.types';
 import { Flag } from '../../../utils/Flag';
+import { IContext } from '../../../context/ContextProps';
 
 const FlagIcon: FC<IContext> = ({ country = 'us', language = 'English' }) => {
     return (

@@ -9,7 +9,7 @@ const Achievement = () => {
     const jsonLocalData = loadAchievementsByParam(country);
     
     return (
-        <Section title={`Throphy gallery of ${country?.toUpperCase()}`}>
+        <Section header={`Throphy gallery of ${country?.toUpperCase()}`}>
             <div className="py-2 px-1 bg-slate-50 border border-slate-300 rounded-lg">
                 <TableGrid item={jsonLocalData?.item} />
             </div>
