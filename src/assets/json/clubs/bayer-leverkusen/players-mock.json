@@ -1,0 +1,999 @@
+{
+    "data": [
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_4-jonathan_tah.jpg?alt=media&token=772dcebb-963f-475a-9451-d1d27067546f",
+            "fullname": "Jonathan Tah",
+            "birthDate": "",
+            "status": 1,
+            "goals": [
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230819,
+                    "time": 35,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230826,
+                    "time": 45,
+                    "extratime": 6,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 231101,
+                    "time": 54,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231112,
+                    "time": 73,
+                    "extratime": 0,
+                    "penalty": false
+                }
+            ],
+            "yellowCards": [
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230826,
+                    "time": 45,
+                    "extratime": 4
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230902,
+                    "time": 24,
+                    "extratime": 0
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231008,
+                    "time": 61,
+                    "extratime": 0
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231104,
+                    "time": 81,
+                    "extratime": 0
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231214,
+                    "time": 42,
+                    "extratime": 0
+                }
+            ],
+            "redCards": []
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_30-jeremie_frimpong.jpg?alt=media&token=4a6a5dc6-0073-46c2-9bde-4876bd84a3be",
+            "fullname": "Jeremie Frimpong",
+            "birthDate": "",
+            "status": 1,
+            "goals": [
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 230812,
+                    "time": 67,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230819,
+                    "time": 24,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231005,
+                    "time": 14,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231008,
+                    "time": 32,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231021,
+                    "time": 13,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231125,
+                    "time": 42,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231217,
+                    "time": 51,
+                    "extratime": 0,
+                    "penalty": false
+                }
+            ],
+            "yellowCards": [
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230826,
+                    "time": 45,
+                    "extratime": 3
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231008,
+                    "time": 23,
+                    "extratime": 0
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231203,
+                    "time": 12,
+                    "extratime": 0
+                }
+            ],
+            "redCards": []
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_10-florian_wirtz.jpg?alt=media&token=ff4a578c-c511-4678-84d8-0f892fd3a90b",
+            "fullname": "Florian Wirtz",
+            "birthDate": "",
+            "status": 1,
+            "goals": [
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 230812,
+                    "time": 45,
+                    "extratime": 1,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230819,
+                    "time": 64,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 230921,
+                    "time": 10,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231026,
+                    "time": 4,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231029,
+                    "time": 36,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231104,
+                    "time": 9,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231210,
+                    "time": 47,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231217,
+                    "time": 57,
+                    "extratime": 0,
+                    "penalty": false
+                }
+            ],
+            "yellowCards": [
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230915,
+                    "time": 47,
+                    "extratime": 0
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231026,
+                    "time": 15,
+                    "extratime": 0
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231109,
+                    "time": 68,
+                    "extratime": 0,
+                    "penalty": false
+                }
+            ],
+            "redCards": []
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_22-victor_boniface.jpg?alt=media&token=490da571-6cab-4bb6-b78a-6f2b2f683ec2",
+            "fullname": "Victor Boniface",
+            "birthDate": "",
+            "status": 1,
+            "goals": [
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 230812,
+                    "time": 42,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230819,
+                    "time": 24,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230826,
+                    "time": 18,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230826,
+                    "time": 53,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230902,
+                    "time": 21,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230902,
+                    "time": 61,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 230921,
+                    "time": 66,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230924,
+                    "time": 9,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230924,
+                    "time": 74,
+                    "extratime": 0,
+                    "penalty": true
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231008,
+                    "time": 67,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231026,
+                    "time": 35,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231109,
+                    "time": 90,
+                    "extratime": 4,
+                    "penalty": true
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231130,
+                    "time": 14,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231203,
+                    "time": 79,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 231206,
+                    "time": 12,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231217,
+                    "time": 14,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231220,
+                    "time": 69,
+                    "extratime": 0,
+                    "penalty": false
+                }
+            ],
+            "yellowCards": [
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230819,
+                    "time": 69,
+                    "extratime": 0
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230826,
+                    "time": 16,
+                    "extratime": 0
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231130,
+                    "time": 25,
+                    "extratime": 0
+                }
+            ],
+            "redCards": []
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_25-exequiel_palacios.jpg?alt=media&token=0ae6735b-9aa5-45c4-915f-9dfd9585fa7c",
+            "fullname": "Exequiel Palacios",
+            "birthDate": "",
+            "status": 1,
+            "goals": [
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230902,
+                    "time": 49,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230915,
+                    "time": 90,
+                    "extratime": 4,
+                    "penalty": true
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 231101,
+                    "time": 21,
+                    "extratime": 0,
+                    "penalty": true
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 231206,
+                    "time": 28,
+                    "extratime": 0,
+                    "penalty": true
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 240113,
+                    "time": 90,
+                    "extratime": 4,
+                    "penalty": false
+                }
+            ],
+            "yellowCards": [
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230902,
+                    "time": 26,
+                    "extratime": 0
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230924,
+                    "time": 31,
+                    "extratime": 0
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231021,
+                    "time": 37,
+                    "extratime": 0
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 231101,
+                    "time": 28,
+                    "extratime": 0
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231203,
+                    "time": 74,
+                    "extratime": 0
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231217,
+                    "time": 12,
+                    "extratime": 0
+                }
+            ],
+            "redCards": []
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_7-jonas_hofmann.jpg?alt=media&token=5962a4d6-747c-4c86-b9c7-8fbff754bee1",
+            "fullname": "Jonas Hofmann",
+            "birthDate": "",
+            "status": 1,
+            "goals": [
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 230812,
+                    "time": 81,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230902,
+                    "time": 67,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 230921,
+                    "time": 70,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230924,
+                    "time": 63,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230930,
+                    "time": 65,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231008,
+                    "time": 22,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231021,
+                    "time": 74,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231029,
+                    "time": 60,
+                    "extratime": 0,
+                    "penalty": false
+                }
+            ],
+            "yellowCards": [
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230915,
+                    "time": 34,
+                    "extratime": 0
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 240113,
+                    "time": 45,
+                    "extratime": 1
+                }
+            ],
+            "redCards": []
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_23-adam_hlozek.jpg?alt=media&token=40efa5a5-2ce4-4a39-9de6-4a2e306212b3",
+            "fullname": "Adam Hložek",
+            "birthDate": "",
+            "status": 1,
+            "goals": [
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 230812,
+                    "time": 74,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 230812,
+                    "time": 90,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230902,
+                    "time": 83,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 231101,
+                    "time": 85,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231214,
+                    "time": 60,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231214,
+                    "time": 70,
+                    "extratime": 0,
+                    "penalty": false
+                }
+            ],
+            "yellowCards": [
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 231101,
+                    "time": 86,
+                    "extratime": 0
+                }
+            ],
+            "redCards": []
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_34-granit_xhaka.jpg?alt=media&token=c780b990-d6ea-4639-aa66-0c8b55fde3ed",
+            "fullname": "Granit Xhaka",
+            "birthDate": "",
+            "status": 1,
+            "goals": [],
+            "yellowCards": [
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230902,
+                    "time": 31,
+                    "extratime": 0
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230930,
+                    "time": 4,
+                    "extratime": 0
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231021,
+                    "time": 55,
+                    "extratime": 0
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 231101,
+                    "time": 77,
+                    "extratime": 0
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231109,
+                    "time": 69,
+                    "extratime": 0
+                }
+            ],
+            "redCards": []
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_20-%C3%81lex_grimaldo.jpg?alt=media&token=aa1b169c-a94a-4361-9c01-5d6dc4fdc875",
+            "fullname": "Álex Grimaldo",
+            "birthDate": "",
+            "status": 1,
+            "goals": [
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230915,
+                    "time": 24,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230930,
+                    "time": 59,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231021,
+                    "time": 62,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231026,
+                    "time": 29,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231026,
+                    "time": 54,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231104,
+                    "time": 45,
+                    "extratime": 1,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231104,
+                    "time": 70,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231112,
+                    "time": 23,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231125,
+                    "time": 76,
+                    "extratime": 0,
+                    "penalty": false
+                }
+            ],
+            "yellowCards": [
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 231101,
+                    "time": 71,
+                    "extratime": 0
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231125,
+                    "time": 77,
+                    "extratime": 0
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231214,
+                    "time": 78,
+                    "extratime": 0
+                }
+            ],
+            "redCards": []
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_12-edmond_tapsoba.jpg?alt=media&token=aaad0dc8-813c-4580-9684-f0a525cad5e3",
+            "fullname": "Edmond Tapsoba",
+            "birthDate": "",
+            "status": 1,
+            "goals": [
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 230812,
+                    "time": 16,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231026,
+                    "time": 57,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231214,
+                    "time": 22,
+                    "extratime": 0,
+                    "penalty": false
+                }
+            ],
+            "yellowCards": [
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230915,
+                    "time": 69,
+                    "extratime": 0
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 230921,
+                    "time": 30,
+                    "extratime": 0
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231008,
+                    "time": 45,
+                    "extratime": 3
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231021,
+                    "time": 86,
+                    "extratime": 0
+                }
+            ],
+            "redCards": []
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_21-amine_adli.jpg?alt=media&token=2c6a5518-f9aa-46dd-bea9-5b9cf2e7919e",
+            "fullname": "Amine Adli",
+            "birthDate": "",
+            "status": 1,
+            "goals": [
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 230812,
+                    "time": 59,
+                    "extratime": 0,
+                    "penalty": true
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 230921,
+                    "time": 16,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 230924,
+                    "time": 82,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 231101,
+                    "time": 88,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 231101,
+                    "time": 90,
+                    "extratime": 2,
+                    "penalty": false
+                }
+            ],
+            "yellowCards": [
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231021,
+                    "time": 56,
+                    "extratime": 0
+                }
+            ],
+            "redCards": []
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_1-luk%C3%A1%C5%A1__hr%C3%A1deck%C3%BD.jpg?alt=media&token=e65fd403-bda2-4c4d-a440-006c6d56fb34",
+            "fullname": "Lukáš Hrádecký",
+            "birthDate": "",
+            "status": 1,
+            "goals": [],
+            "yellowCards": [
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231104,
+                    "time": 72,
+                    "extratime": 0
+                }
+            ],
+            "redCards": []
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_6-odilon_kossounou.jpg?alt=media&token=231fb359-a2cc-4ed7-ab22-a1349b2f0ec9",
+            "fullname": "Odilon Kossounou",
+            "birthDate": "",
+            "status": 1,
+            "goals": [
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231104,
+                    "time": 57,
+                    "extratime": 0,
+                    "penalty": false
+                }
+            ],
+            "yellowCards": [
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231203,
+                    "time": 3,
+                    "extratime": 0
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231210,
+                    "time": 6,
+                    "extratime": 0
+                }
+            ],
+            "redCards": []
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_19-nathan_tella.jpg?alt=media&token=24860739-c66a-4ca0-92f2-5bf08b56bec9",
+            "fullname": "Nathan Tella",
+            "birthDate": "",
+            "status": 1,
+            "goals": [
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231005,
+                    "time": 18,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231112,
+                    "time": 83,
+                    "extratime": 0,
+                    "penalty": false
+                }
+            ],
+            "yellowCards": [],
+            "redCards": []
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_14-patrik_schick.jpg?alt=media&token=9fce4faf-9674-4c54-b1f7-c6eaa0590d4d",
+            "fullname": "Patrik Schick",
+            "birthDate": "",
+            "status": 1,
+            "goals": [
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231130,
+                    "time": 74,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 231206,
+                    "time": 87,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231214,
+                    "time": 6,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231220,
+                    "time": 30,
+                    "extratime": 0,
+                    "penalty": true
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231220,
+                    "time": 32,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 231220,
+                    "time": 45,
+                    "extratime": 1,
+                    "penalty": false
+                }
+            ],
+            "yellowCards": [],
+            "redCards": []
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_3-piero_hincapi%C3%A9.jpg?alt=media&token=3e890c11-d961-48d0-b20b-2e5ad93656b1",
+            "fullname": "Piero Hincapié",
+            "birthDate": "",
+            "status": 1,
+            "goals": [],
+            "yellowCards": [
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 231206,
+                    "time": 16,
+                    "extratime": 0
+                }
+            ],
+            "redCards": []
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fplayers%2Fgermany%2FBayer%20Leverkusen%2Frsz_8-robert_andrich.jpg?alt=media&token=7e11c805-aef9-46b0-91ec-2bd61cfb0a7c",
+            "fullname": "Robert Andrich",
+            "birthDate": "",
+            "status": 1,
+            "goals": [],
+            "yellowCards": [
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 231026,
+                    "time": 43,
+                    "extratime": 0
+                }
+            ],
+            "redCards": []
+        }
+    ]
+}

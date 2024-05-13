@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "country": "Germany",
+            "abbrev": "ge",
+            "icon": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fflags%2Fcountries%2Frsz_germany.jpg?alt=media&token=322d6029-72bf-424a-bc89-962befc5c0a7",
+            "clubs": [
+                {
+                    "clubName": "Bayer 04 Leverkusen",
+                    "abbrev": "B04",
+                    "icon": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38"
+                }
+            ]
+        }
+    ]
+}

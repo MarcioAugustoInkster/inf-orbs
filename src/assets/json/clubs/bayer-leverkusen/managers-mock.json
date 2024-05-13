@@ -1,0 +1,2341 @@
+{
+    "data": [
+        {
+            "profile": {
+                "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Ftrainers%2Fxabi_alonso%2Frsz_2rsz_imageedit_672_7741459990_64x64.jpg?alt=media&token=6d74a7f8-699e-43c9-9ec5-ce9e990d4e95",
+                "fullname": "Xabi Alonso",
+                "birthDate": "1981-11-25",
+                "age": 42,
+                "sinceFrom": "2022-10-08",
+                "status": 0
+            },
+            "results": [
+                {
+                    "code": 221008,
+                    "league": "Bundesliga",
+                    "round": 9,
+                    "matchday": {
+                        "normal": "October 8, 2022",
+                        "abbrev": "Oct 8, 22"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 4
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FS04-48x48.png?alt=media&token=cb1ec458-c5ce-4b96-8016-ad07d18c025a",
+                        "club": {
+                            "normal": "Schalke 04",
+                            "abbrev": "S04"
+                        },
+                        "score": 0
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 221012,
+                    "league": "Champions League",
+                    "round": "Group 4/6",
+                    "matchday": {
+                        "normal": "October 12, 2022",
+                        "abbrev": "Oct 12, 22"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fportugal%2FF.C._Porto_logo.webp?alt=media&token=2d0001d8-a4bd-46e6-8f56-543819cb1001",
+                        "club": {
+                            "normal": "FC Porto",
+                            "abbrev": "FCP"
+                        },
+                        "score": 3
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 221015,
+                    "league": "Bundesliga",
+                    "round": 10,
+                    "matchday": {
+                        "normal": "October 15, 2022",
+                        "abbrev": "Oct 15, 22"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSGE-48x48.webp?alt=media&token=4a9068db-182e-41b9-9099-926cda4cdf02",
+                        "club": {
+                            "normal": "Eintracht Frankfurt",
+                            "abbrev": "SGE"
+                        },
+                        "score": 5
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 221022,
+                    "league": "Bundesliga",
+                    "round": 11,
+                    "matchday": {
+                        "normal": "October 22, 2022",
+                        "abbrev": "Oct 22, 22"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FWOB-48x48.webp?alt=media&token=86a40a8f-b17c-4f24-a145-bb1adf6f5777",
+                        "club": {
+                            "normal": "VfL Wolfsburg",
+                            "abbrev": "WOB"
+                        },
+                        "score": 2
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 221026,
+                    "league": "Champions League",
+                    "round": "Group 5/6",
+                    "matchday": {
+                        "normal": "October 26, 2022",
+                        "abbrev": "Oct 26, 22"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fspain%2FAtletico_Madrid_2017_logo.svg.webp?alt=media&token=2cfcbfcb-54bd-4cdc-9126-7aabe1ad9ae9",
+                        "club": {
+                            "normal": "Atlético Madrid",
+                            "abbrev": "ATM"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 221029,
+                    "league": "Bundesliga",
+                    "round": 12,
+                    "matchday": {
+                        "normal": "October 29, 2022",
+                        "abbrev": "Oct 29, 22"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FRBL-48x48.webp?alt=media&token=145ed236-1c93-4694-ac32-b44e7bf5cf7c",
+                        "club": {
+                            "normal": "RB Leipzig",
+                            "abbrev": "RBL"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 221101,
+                    "league": "Europa League",
+                    "round": "Group 6/6",
+                    "matchday": {
+                        "normal": "November 1, 2022",
+                        "abbrev": "Nov 1, 22"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fbelgium%2FClub_Brugge_KV_logo.svg.webp?alt=media&token=86e20400-7bbb-4747-82f7-d74d5c931077",
+                        "club": {
+                            "normal": "Club Brugge KV",
+                            "abbrev": "BKV"
+                        },
+                        "score": 0
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 221106,
+                    "league": "Bundesliga",
+                    "round": 13,
+                    "matchday": {
+                        "normal": "November 6, 2022",
+                        "abbrev": "Nov 6, 22"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 5
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCU-48x48.webp?alt=media&token=5ce20d5a-2e73-4905-9d61-63419d72ce7d",
+                        "club": {
+                            "normal": "1. FC Union Berlin",
+                            "abbrev": "FCU"
+                        },
+                        "score": 0
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 221109,
+                    "league": "Bundesliga",
+                    "round": 14,
+                    "matchday": {
+                        "normal": "November 9, 2022",
+                        "abbrev": "Nov 9, 22"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FKOE-48x48.webp?alt=media&token=c60b385b-a75d-487d-ac82-67cccc8a549c",
+                        "club": {
+                            "normal": "1. FC Köln",
+                            "abbrev": "KOE"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 221112,
+                    "league": "Bundesliga",
+                    "round": 15,
+                    "matchday": {
+                        "normal": "November 12, 2022",
+                        "abbrev": "Nov 12, 22"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FVFB-48x48.webp?alt=media&token=e5611d96-614b-4792-841e-5136db8a9f2f",
+                        "club": {
+                            "normal": "VfB Stuttgart",
+                            "abbrev": "VFB"
+                        },
+                        "score": 0
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230122,
+                    "league": "Bundesliga",
+                    "round": 16,
+                    "matchday": {
+                        "normal": "January 22, 2023",
+                        "abbrev": "Jan 22, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FBMG-48x48.webp?alt=media&token=f89ff7d4-3ea8-4dc4-8ab8-06ab65b6d34e",
+                        "club": {
+                            "normal": "Borussia Mönchengladbach",
+                            "abbrev": "BMG"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230125,
+                    "league": "Bundesliga",
+                    "round": 17,
+                    "matchday": {
+                        "normal": "January 25, 2023",
+                        "abbrev": "Jan 25, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FBOC-48x48.webp?alt=media&token=d66db937-9902-4678-9b6e-b111cae225a9",
+                        "club": {
+                            "normal": "VfL Bochum",
+                            "abbrev": "BOC"
+                        },
+                        "score": 0
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230129,
+                    "league": "Bundesliga",
+                    "round": 18,
+                    "matchday": {
+                        "normal": "January 29, 2023",
+                        "abbrev": "Jan 29, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FBVB-48x48.webp?alt=media&token=ac51d3ff-42c0-4b07-8d89-780fe5b87138",
+                        "club": {
+                            "normal": "Borussia Dortmund",
+                            "abbrev": "BVB"
+                        },
+                        "score": 2
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230203,
+                    "league": "Bundesliga",
+                    "round": 19,
+                    "matchday": {
+                        "normal": "February 3, 2023",
+                        "abbrev": "Feb 3, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCA-48x48.webp?alt=media&token=b5da9249-b044-4202-bb39-234ee70f373e",
+                        "club": {
+                            "normal": "FC Augsburg",
+                            "abbrev": "FCA"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230211,
+                    "league": "Bundesliga",
+                    "round": 20,
+                    "matchday": {
+                        "normal": "February 11, 2023",
+                        "abbrev": "Feb 11, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FTSG-48x48.webp?alt=media&token=3960ec0b-d58f-428d-9622-b3d5ea98c397",
+                        "club": {
+                            "normal": "TSG 1899 Hoffenheim",
+                            "abbrev": "TSG"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230216,
+                    "league": "Europa League",
+                    "round": "",
+                    "matchday": {
+                        "normal": "February 16, 2023",
+                        "abbrev": "Feb 16, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Ffrance%2FLogoASMonacoFC2021.svg.webp?alt=media&token=3885a4a8-6bd3-4191-95d6-07c8fb48c91a",
+                        "club": {
+                            "normal": "AS Monaco FC",
+                            "abbrev": "ASM"
+                        },
+                        "score": 3
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230219,
+                    "league": "Bundesliga",
+                    "round": 21,
+                    "matchday": {
+                        "normal": "February 19, 2023",
+                        "abbrev": "Feb 19, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FM05-48x48.webp?alt=media&token=a45bad43-77b1-432c-a489-ff812313a34e",
+                        "club": {
+                            "normal": "1. FSV Mainz 05",
+                            "abbrev": "M05"
+                        },
+                        "score": 3
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230223,
+                    "league": "Europa League",
+                    "round": "",
+                    "matchday": {
+                        "normal": "February 23, 2023",
+                        "abbrev": "Feb 23, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Ffrance%2FLogoASMonacoFC2021.svg.webp?alt=media&token=3885a4a8-6bd3-4191-95d6-07c8fb48c91a",
+                        "club": {
+                            "normal": "AS Monaco FC",
+                            "abbrev": "ASM"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 3,
+                        "away": 5
+                    },
+                    "hasPenalty": true
+                },
+                {
+                    "code": 20230226,
+                    "league": "Bundesliga",
+                    "round": 22,
+                    "matchday": {
+                        "normal": "February 26, 2023",
+                        "abbrev": "Feb 26, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSCF-48x48.webp?alt=media&token=687c664d-6b04-4aa1-bac5-3fc6f388ede6",
+                        "club": {
+                            "normal": "SC Freiburg",
+                            "abbrev": "SCF"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230305,
+                    "league": "Bundesliga",
+                    "round": 23,
+                    "matchday": {
+                        "normal": "March 5, 2023",
+                        "abbrev": "Mar 5, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 4
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FBSC-48x48.webp?alt=media&token=7708fac4-96fa-450a-8385-5c6b045604bb",
+                        "club": {
+                            "normal": "BSC Hertha Berlin",
+                            "abbrev": "BSC"
+                        },
+                        "score": 1
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230309,
+                    "league": "Europa League",
+                    "round": "16 round 1/2",
+                    "matchday": {
+                        "normal": "March 9, 2023",
+                        "abbrev": "Mar 9, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fhungary%2FFerencvarosi_TC.svg.webp?alt=media&token=7e0e7f06-41c7-49b2-957d-a8f42a9f5456",
+                        "club": {
+                            "normal": "Ferencvárosi TC",
+                            "abbrev": "FTC"
+                        },
+                        "score": 0
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230312,
+                    "league": "Bundesliga",
+                    "round": 24,
+                    "matchday": {
+                        "normal": "March 12, 2023",
+                        "abbrev": "Mar 12, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSVW-48x48.webp?alt=media&token=e7b68f97-833d-46f3-84b1-0b9e53bea8ba",
+                        "club": {
+                            "normal": "SV Werder Bremen",
+                            "abbrev": "SVW"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230316,
+                    "league": "Europa League",
+                    "round": "16 round 2/2",
+                    "matchday": {
+                        "normal": "March 16, 2023",
+                        "abbrev": "Mar 16, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fhungary%2FFerencvarosi_TC.svg.webp?alt=media&token=7e0e7f06-41c7-49b2-957d-a8f42a9f5456",
+                        "club": {
+                            "normal": "Ferencvárosi TC",
+                            "abbrev": "FTC"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230319,
+                    "league": "Bundesliga",
+                    "round": 25,
+                    "matchday": {
+                        "normal": "March 19, 2023",
+                        "abbrev": "Mar 19, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 1
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230401,
+                    "league": "Bundesliga",
+                    "round": 26,
+                    "matchday": {
+                        "normal": "April 1, 2023",
+                        "abbrev": "Apr 1, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FS04-48x48.png?alt=media&token=cb1ec458-c5ce-4b96-8016-ad07d18c025a",
+                        "club": {
+                            "normal": "Schalke 04",
+                            "abbrev": "S04"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230408,
+                    "league": "Bundesliga",
+                    "round": 27,
+                    "matchday": {
+                        "normal": "April 8, 2023",
+                        "abbrev": "Apr 8, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSGE-48x48.webp?alt=media&token=4a9068db-182e-41b9-9099-926cda4cdf02",
+                        "club": {
+                            "normal": "Eintracht Frankfurt",
+                            "abbrev": "SGE"
+                        },
+                        "score": 1
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230413,
+                    "league": "Europa League",
+                    "round": "Quarter-final 1/2",
+                    "matchday": {
+                        "normal": "April 13, 2023",
+                        "abbrev": "Apr 13, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fbelgium%2FRoyale_Union_Saint-Gilloise_logo.webp?alt=media&token=dac81dc1-6aa6-4083-8f3b-0f9dac3ce685",
+                        "club": {
+                            "normal": "Union Saint-Gilloise",
+                            "abbrev": "USG"
+                        },
+                        "score": 1
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230416,
+                    "league": "Bundesliga",
+                    "round": 28,
+                    "matchday": {
+                        "normal": "April 16, 2023",
+                        "abbrev": "Apr 16, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FWOB-48x48.webp?alt=media&token=86a40a8f-b17c-4f24-a145-bb1adf6f5777",
+                        "club": {
+                            "normal": "VfL Wolfsburg",
+                            "abbrev": "WOB"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230420,
+                    "league": "Europa League",
+                    "round": "Quarter-final 2/2",
+                    "matchday": {
+                        "normal": "April 20, 2023",
+                        "abbrev": "Apr 20, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fbelgium%2FRoyale_Union_Saint-Gilloise_logo.webp?alt=media&token=dac81dc1-6aa6-4083-8f3b-0f9dac3ce685",
+                        "club": {
+                            "normal": "Union Saint-Gilloise",
+                            "abbrev": "USG"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 4
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230423,
+                    "league": "Bundesliga",
+                    "round": 29,
+                    "matchday": {
+                        "normal": "April 23, 2023",
+                        "abbrev": "Apr 23, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FRBL-48x48.webp?alt=media&token=145ed236-1c93-4694-ac32-b44e7bf5cf7c",
+                        "club": {
+                            "normal": "RB Leipzig",
+                            "abbrev": "RBL"
+                        },
+                        "score": 0
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230429,
+                    "league": "Bundesliga",
+                    "round": 30,
+                    "matchday": {
+                        "normal": "April 29, 2023",
+                        "abbrev": "Apr 29, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCU-48x48.webp?alt=media&token=5ce20d5a-2e73-4905-9d61-63419d72ce7d",
+                        "club": {
+                            "normal": "1. FC Union Berlin",
+                            "abbrev": "FCU"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230505,
+                    "league": "Bundesliga",
+                    "round": 31,
+                    "matchday": {
+                        "normal": "May 5, 2023",
+                        "abbrev": "May 5, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FKOE-48x48.webp?alt=media&token=c60b385b-a75d-487d-ac82-67cccc8a549c",
+                        "club": {
+                            "normal": "1. FC Köln",
+                            "abbrev": "KOE"
+                        },
+                        "score": 2
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230511,
+                    "league": "Europa League",
+                    "round": "Semi-final 1/2",
+                    "matchday": {
+                        "normal": "May 11, 2023",
+                        "abbrev": "May 11, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fitaly%2FASR-48x48.webp?alt=media&token=ee982379-aec9-4ad2-ada9-c5f38cafcc2e",
+                        "club": {
+                            "normal": "AS Roma",
+                            "abbrev": "ASR"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230514,
+                    "league": "Bundesliga",
+                    "round": 32,
+                    "matchday": {
+                        "normal": "May 14, 2023",
+                        "abbrev": "May 14, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FVFB-48x48.webp?alt=media&token=e5611d96-614b-4792-841e-5136db8a9f2f",
+                        "club": {
+                            "normal": "VfB Stuttgart",
+                            "abbrev": "VFB"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230518,
+                    "league": "Europa League",
+                    "round": "Semi-final 2/2",
+                    "matchday": {
+                        "normal": "May 18, 2023",
+                        "abbrev": "May 18, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fitaly%2FASR-48x48.webp?alt=media&token=ee982379-aec9-4ad2-ada9-c5f38cafcc2e",
+                        "club": {
+                            "normal": "AS Roma",
+                            "abbrev": "ASR"
+                        },
+                        "score": 0
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230521,
+                    "league": "Bundesliga",
+                    "round": 33,
+                    "matchday": {
+                        "normal": "May 21, 2023",
+                        "abbrev": "May 21, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FBMG-48x48.webp?alt=media&token=f89ff7d4-3ea8-4dc4-8ab8-06ab65b6d34e",
+                        "club": {
+                            "normal": "Borussia Mönchengladbach",
+                            "abbrev": "BMG"
+                        },
+                        "score": 2
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230527,
+                    "league": "Bundesliga",
+                    "round": 34,
+                    "matchday": {
+                        "normal": "May 27, 2023",
+                        "abbrev": "May 27, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FBOC-48x48.webp?alt=media&token=d66db937-9902-4678-9b6e-b111cae225a9",
+                        "club": {
+                            "normal": "VfL Bochum",
+                            "abbrev": "BOC"
+                        },
+                        "score": 3
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230812,
+                    "league": "DFB-Pokal",
+                    "round": 1,
+                    "matchday": {
+                        "normal": "August 12, 2023",
+                        "abbrev": "Aug 12, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCT-48x48.webp?alt=media&token=f54514f3-1566-4b93-b5c2-965651e28a10",
+                        "club": {
+                            "normal": "Teutonia Ottensen",
+                            "abbrev": "TEU"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 8
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230819,
+                    "league": "Bundesliga",
+                    "round": 1,
+                    "matchday": {
+                        "normal": "August 19, 2023",
+                        "abbrev": "Aug 19, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FRBL-48x48.webp?alt=media&token=145ed236-1c93-4694-ac32-b44e7bf5cf7c",
+                        "club": {
+                            "normal": "RB Leipzig",
+                            "abbrev": "RBL"
+                        },
+                        "score": 2
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230826,
+                    "league": "Bundesliga",
+                    "round": 2,
+                    "matchday": {
+                        "normal": "August 26, 2023",
+                        "abbrev": "Aug 26, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FBMG-48x48.webp?alt=media&token=f89ff7d4-3ea8-4dc4-8ab8-06ab65b6d34e",
+                        "club": {
+                            "normal": "Borussia Mönchengladbach",
+                            "abbrev": "BMG"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230902,
+                    "league": "Bundesliga",
+                    "round": 3,
+                    "matchday": {
+                        "normal": "September 2, 2023",
+                        "abbrev": "Sep 2, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 5
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FDAR-48x48.webp?alt=media&token=3fca1350-a1f2-4caf-ab03-9f6fc7807192",
+                        "club": {
+                            "normal": "Darmstadt",
+                            "abbrev": "DAR"
+                        },
+                        "score": 1
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230915,
+                    "league": "Bundesliga",
+                    "round": 4,
+                    "matchday": {
+                        "normal": "September 15, 2023",
+                        "abbrev": "Sep 15, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230921,
+                    "league": "Europa League",
+                    "round": "Group 1/6",
+                    "matchday": {
+                        "normal": "September 21, 2023",
+                        "abbrev": "Sep 21, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 4
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fsweden%2FBKH-48x48.webp?alt=media&token=2505b6c4-118a-456e-a720-212f6fbe3934",
+                        "club": {
+                            "normal": "Häcken",
+                            "abbrev": "HAC"
+                        },
+                        "score": 0
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230924,
+                    "league": "Bundesliga",
+                    "round": 5,
+                    "matchday": {
+                        "normal": "September 24, 2023",
+                        "abbrev": "Sep 24, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 4
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCH-48x48.webp?alt=media&token=e4cdbca0-f84a-4787-871b-4cd765fefe10",
+                        "club": {
+                            "normal": "1. FC Heidenheim",
+                            "abbrev": "FCH"
+                        },
+                        "score": 1
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230930,
+                    "league": "Bundesliga",
+                    "round": 6,
+                    "matchday": {
+                        "normal": "September 30, 2023",
+                        "abbrev": "Sep 30, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FM05-48x48.webp?alt=media&token=a45bad43-77b1-432c-a489-ff812313a34e",
+                        "club": {
+                            "normal": "1. FSV Mainz 05",
+                            "abbrev": "M05"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231005,
+                    "league": "Europa League",
+                    "round": "Group 2/6",
+                    "matchday": {
+                        "normal": "October 5, 2023",
+                        "abbrev": "Oct 5, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fnorway%2FMFK-48x48.webp?alt=media&token=b28a566f-76aa-4358-b872-5a57f0c789bf",
+                        "club": {
+                            "normal": "Molde",
+                            "abbrev": "MFK"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231008,
+                    "league": "Bundesliga",
+                    "round": 7,
+                    "matchday": {
+                        "normal": "October 8, 2023",
+                        "abbrev": "Oct 8, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FKOE-48x48.webp?alt=media&token=c60b385b-a75d-487d-ac82-67cccc8a549c",
+                        "club": {
+                            "normal": "1. FC Köln",
+                            "abbrev": "KOE"
+                        },
+                        "score": 0
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231021,
+                    "league": "Bundesliga",
+                    "round": 8,
+                    "matchday": {
+                        "normal": "October 21, 2023",
+                        "abbrev": "Oct 21, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FWOB-48x48.webp?alt=media&token=86a40a8f-b17c-4f24-a145-bb1adf6f5777",
+                        "club": {
+                            "normal": "VfL Wolfsburg",
+                            "abbrev": "WOB"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231026,
+                    "league": "Europa League",
+                    "round": "Group 3/6",
+                    "matchday": {
+                        "normal": "October 26, 2023",
+                        "abbrev": "Oct 26, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 5
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fazerbaijan%2FQFK-48x48.webp?alt=media&token=339be3d7-b9c0-4eb6-a276-facc6acd79a2",
+                        "club": {
+                            "normal": "Qarabag FK",
+                            "abbrev": "QFK"
+                        },
+                        "score": 1
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231029,
+                    "league": "Bundesliga",
+                    "round": 9,
+                    "matchday": {
+                        "normal": "October 29, 2023",
+                        "abbrev": "Oct 29, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSCF-48x48.webp?alt=media&token=687c664d-6b04-4aa1-bac5-3fc6f388ede6",
+                        "club": {
+                            "normal": "SC Freiburg",
+                            "abbrev": "SCF"
+                        },
+                        "score": 1
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231101,
+                    "league": "DFB-Pokal",
+                    "round": 2,
+                    "matchday": {
+                        "normal": "November 1, 2023",
+                        "abbrev": "Nov 1, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSVS-48x48.webp?alt=media&token=bd765af0-4c68-4d03-8187-145f165a626a",
+                        "club": {
+                            "normal": "SV Sandhausen",
+                            "abbrev": "SVS"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 5
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231104,
+                    "league": "Bundesliga",
+                    "round": 10,
+                    "matchday": {
+                        "normal": "November 4, 2023",
+                        "abbrev": "Nov 4, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FTSG-48x48.webp?alt=media&token=3960ec0b-d58f-428d-9622-b3d5ea98c397",
+                        "club": {
+                            "normal": "TSG 1899 Hoffenheim",
+                            "abbrev": "TSG"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231109,
+                    "league": "Europa League",
+                    "round": "Group 4/6",
+                    "matchday": {
+                        "normal": "November 9, 2023",
+                        "abbrev": "Nov 9, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fazerbaijan%2FQFK-48x48.webp?alt=media&token=339be3d7-b9c0-4eb6-a276-facc6acd79a2",
+                        "club": {
+                            "normal": "Qarabag FK",
+                            "abbrev": "QFK"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231112,
+                    "league": "Bundesliga",
+                    "round": 11,
+                    "matchday": {
+                        "normal": "November 12, 2023",
+                        "abbrev": "Nov 12, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 4
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCU-48x48.webp?alt=media&token=5ce20d5a-2e73-4905-9d61-63419d72ce7d",
+                        "club": {
+                            "normal": "1. FC Union Berlin",
+                            "abbrev": "FCU"
+                        },
+                        "score": 0
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231125,
+                    "league": "Bundesliga",
+                    "round": 12,
+                    "matchday": {
+                        "normal": "November 25, 2023",
+                        "abbrev": "Nov 25, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSVW-48x48.webp?alt=media&token=e7b68f97-833d-46f3-84b1-0b9e53bea8ba",
+                        "club": {
+                            "normal": "SV Werder Bremen",
+                            "abbrev": "SVW"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231130,
+                    "league": "Europa League",
+                    "round": "Group 5/6",
+                    "matchday": {
+                        "normal": "November 30, 2023",
+                        "abbrev": "Nov 30, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fsweden%2FBKH-48x48.webp?alt=media&token=2505b6c4-118a-456e-a720-212f6fbe3934",
+                        "club": {
+                            "normal": "Häcken",
+                            "abbrev": "HAC"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231203,
+                    "league": "Bundesliga",
+                    "round": 13,
+                    "matchday": {
+                        "normal": "December 3, 2023",
+                        "abbrev": "Dec 3, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FBVB-48x48.webp?alt=media&token=ac51d3ff-42c0-4b07-8d89-780fe5b87138",
+                        "club": {
+                            "normal": "Borussia Dortmund",
+                            "abbrev": "BVB"
+                        },
+                        "score": 1
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231206,
+                    "league": "DFB-Pokal",
+                    "round": "16 round",
+                    "matchday": {
+                        "normal": "December 6, 2023",
+                        "abbrev": "Dec 6, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSCP-48x48.webp?alt=media&token=12f7e328-9701-4041-a35e-cdff3c72c759",
+                        "club": {
+                            "normal": "Paderborn",
+                            "abbrev": "PAD"
+                        },
+                        "score": 1
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231210,
+                    "league": "Bundesliga",
+                    "round": 14,
+                    "matchday": {
+                        "normal": "December 10, 2023",
+                        "abbrev": "Dec 10, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FVFB-48x48.webp?alt=media&token=e5611d96-614b-4792-841e-5136db8a9f2f",
+                        "club": {
+                            "normal": "VfB Stuttgart",
+                            "abbrev": "VFB"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231214,
+                    "league": "Europa League",
+                    "round": "Group 6/6",
+                    "matchday": {
+                        "normal": "December 14, 2023",
+                        "abbrev": "Dec 14, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 5
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fnorway%2FMFK-48x48.webp?alt=media&token=b28a566f-76aa-4358-b872-5a57f0c789bf",
+                        "club": {
+                            "normal": "Molde",
+                            "abbrev": "MFK"
+                        },
+                        "score": 1
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231217,
+                    "league": "Bundesliga",
+                    "round": 15,
+                    "matchday": {
+                        "normal": "December 17, 2023",
+                        "abbrev": "Dec 17, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSGE-48x48.webp?alt=media&token=4a9068db-182e-41b9-9099-926cda4cdf02",
+                        "club": {
+                            "normal": "Eintracht Frankfurt",
+                            "abbrev": "SGE"
+                        },
+                        "score": 0
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20231220,
+                    "league": "Bundesliga",
+                    "round": 16,
+                    "matchday": {
+                        "normal": "December 20, 2023",
+                        "abbrev": "Dec 20, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 4
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FBOC-48x48.webp?alt=media&token=d66db937-9902-4678-9b6e-b111cae225a9",
+                        "club": {
+                            "normal": "VfL Bochum",
+                            "abbrev": "BOC"
+                        },
+                        "score": 0
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20240113,
+                    "league": "Bundesliga",
+                    "round": 17,
+                    "matchday": {
+                        "normal": "January 13, 2024",
+                        "abbrev": "Jan 13, 24"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCA-48x48.webp?alt=media&token=b5da9249-b044-4202-bb39-234ee70f373e",
+                        "club": {
+                            "normal": "FC Augsburg",
+                            "abbrev": "FCA"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20240120,
+                    "league": "Bundesliga",
+                    "round": 18,
+                    "matchday": {
+                        "normal": "January 20, 2024",
+                        "abbrev": "Jan 20, 24"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FRBL-48x48.webp?alt=media&token=145ed236-1c93-4694-ac32-b44e7bf5cf7c",
+                        "club": {
+                            "normal": "RB Leipzig",
+                            "abbrev": "RBL"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20240127,
+                    "league": "Bundesliga",
+                    "round": 19,
+                    "matchday": {
+                        "normal": "January 27, 2024",
+                        "abbrev": "Jan 27, 24"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FBMG-48x48.webp?alt=media&token=f89ff7d4-3ea8-4dc4-8ab8-06ab65b6d34e",
+                        "club": {
+                            "normal": "Borussia Mönchengladbach",
+                            "abbrev": "BMG"
+                        },
+                        "score": 0
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20240203,
+                    "league": "Bundesliga",
+                    "round": 20,
+                    "matchday": {
+                        "normal": "February 3, 2024",
+                        "abbrev": "Feb 3, 24"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FDAR-48x48.webp?alt=media&token=3fca1350-a1f2-4caf-ab03-9f6fc7807192",
+                        "club": {
+                            "normal": "Darmstadt",
+                            "abbrev": "DAR"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20240206,
+                    "league": "DFB-Pokal",
+                    "round": "Quarter-final",
+                    "matchday": {
+                        "normal": "February 6, 2024",
+                        "abbrev": "Feb 6, 24"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FVFB-48x48.webp?alt=media&token=e5611d96-614b-4792-841e-5136db8a9f2f",
+                        "club": {
+                            "normal": "VfB Stuttgart",
+                            "abbrev": "VFB"
+                        },
+                        "score": 2
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20240210,
+                    "league": "Bundesliga",
+                    "round": 21,
+                    "matchday": {
+                        "normal": "February 10, 2024",
+                        "abbrev": "Feb 10, 24"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 0
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20240217,
+                    "league": "Bundesliga",
+                    "round": 22,
+                    "matchday": {
+                        "normal": "February 17, 2024",
+                        "abbrev": "Feb 17, 24"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCH-48x48.webp?alt=media&token=e4cdbca0-f84a-4787-871b-4cd765fefe10",
+                        "club": {
+                            "normal": "1. FC Heidenheim",
+                            "abbrev": "FCH"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20240223,
+                    "league": "Bundesliga",
+                    "round": 23,
+                    "matchday": {
+                        "normal": "February 23, 2024",
+                        "abbrev": "Feb 23, 24"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FM05-48x48.webp?alt=media&token=a45bad43-77b1-432c-a489-ff812313a34e",
+                        "club": {
+                            "normal": "1. FSV Mainz 05",
+                            "abbrev": "M05"
+                        },
+                        "score": 1
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20240303,
+                    "league": "Bundesliga",
+                    "round": 24,
+                    "matchday": {
+                        "normal": "March 3, 2024",
+                        "abbrev": "Mar 3, 24"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FKOE-48x48.webp?alt=media&token=c60b385b-a75d-487d-ac82-67cccc8a549c",
+                        "club": {
+                            "normal": "1. FC Köln",
+                            "abbrev": "KOE"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20240310,
+                    "league": "Bundesliga",
+                    "round": 25,
+                    "matchday": {
+                        "normal": "March 10, 2024",
+                        "abbrev": "Mar 10, 24"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FWOB-48x48.webp?alt=media&token=86a40a8f-b17c-4f24-a145-bb1adf6f5777",
+                        "club": {
+                            "normal": "VfL Wolfsburg",
+                            "abbrev": "WOB"
+                        },
+                        "score": 0
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20240317,
+                    "league": "Bundesliga",
+                    "round": 26,
+                    "matchday": {
+                        "normal": "March 17, 2024",
+                        "abbrev": "Mar 17, 24"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSCF-48x48.webp?alt=media&token=687c664d-6b04-4aa1-bac5-3fc6f388ede6",
+                        "club": {
+                            "normal": "SC Freiburg",
+                            "abbrev": "SCF"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20240330,
+                    "league": "Bundesliga",
+                    "round": 27,
+                    "matchday": {
+                        "normal": "March 30, 2024",
+                        "abbrev": "Mar 30, 24"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FTSG-48x48.webp?alt=media&token=3960ec0b-d58f-428d-9622-b3d5ea98c397",
+                        "club": {
+                            "normal": "TSG 1899 Hoffenheim",
+                            "abbrev": "TSG"
+                        },
+                        "score": 1
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20240406,
+                    "league": "Bundesliga",
+                    "round": 28,
+                    "matchday": {
+                        "normal": "April 06, 2024",
+                        "abbrev": "Apr 06, 24"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCU-48x48.webp?alt=media&token=5ce20d5a-2e73-4905-9d61-63419d72ce7d",
+                        "club": {
+                            "normal": "1. FC Union Berlin",
+                            "abbrev": "FCU"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                }
+            ]
+        }
+    ]
+}

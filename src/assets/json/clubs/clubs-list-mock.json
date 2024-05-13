@@ -1,0 +1,173 @@
+{
+    "data": [
+        {
+            "country": {
+                "name": "Germany",
+                "abbrev": "DE"
+            },
+            "flag": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fflags%2Fcountries%2Frsz_germany.jpg?alt=media&token=322d6029-72bf-424a-bc89-962befc5c0a7",
+            "clubs": [
+                {
+                    "club": {
+                        "normal": "1. FC Augsburg",
+                        "abbrev": "FCA"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2FFC_Augsburg_logo.svg.webp?alt=media&token=d095398d-cb7d-49d6-b661-2212a6a82d13",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "1. FC Heidenheim",
+                        "abbrev": "FCH"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCH-48x48.webp?alt=media&token=e4cdbca0-f84a-4787-871b-4cd765fefe10",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "1. FC Köln",
+                        "abbrev": "KOE"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FKOE-48x48.webp?alt=media&token=c60b385b-a75d-487d-ac82-67cccc8a549c",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "1. FC Union Berlin",
+                        "abbrev": "FCU"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FRBL-48x48.webp?alt=media&token=145ed236-1c93-4694-ac32-b44e7bf5cf7c",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "1. FSV Mainz 05",
+                        "abbrev": "M05"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FM05-48x48.webp?alt=media&token=a45bad43-77b1-432c-a489-ff812313a34e",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "Bayer 04 Leverkusen",
+                        "abbrev": "B04"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fbayer_04_leverkusen_logo_48x48.webp?alt=media&token=d1ba79e1-c307-44aa-97c6-afff073b32d8",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "Borussia Dortmund",
+                        "abbrev": "BVB"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2FBorussia_Dortmund_logo.svg.webp?alt=media&token=5b358303-a324-451e-86f0-e4786193cd1d",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "Borussia Mönchengladbach",
+                        "abbrev": "BMG"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2F1200px-Borussia_M%C3%B6nchengladbach_logo.svg.webp?alt=media&token=6d768a5e-214c-417a-b696-bad6edc7d95b",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "Eintracht Frankfurt",
+                        "abbrev": "SGE"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSGE-48x48.webp?alt=media&token=4a9068db-182e-41b9-9099-926cda4cdf02",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "FC Bayern München",
+                        "abbrev": "FCB"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fimageedit_811_6404443339.webp?alt=media&token=6dd60035-7dd6-4e7d-b3af-7b826b5fdece",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "Hertha BSC",
+                        "abbrev": "BSC"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2F1200px-Hertha_BSC_Logo_2012.svg.webp?alt=media&token=bbe6ed81-5edf-403e-a273-21c5712ee2ff",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "RB Leipzig",
+                        "abbrev": "RBL"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FRBL-48x48.webp?alt=media&token=145ed236-1c93-4694-ac32-b44e7bf5cf7c",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "Schalke 04",
+                        "abbrev": "S04"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2FFC_Schalke_04_Logo.webp?alt=media&token=863bee4b-4863-49b1-ba34-0279ab6c9968",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "SC Freiburg",
+                        "abbrev": "SCF"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSCF-48x48.webp?alt=media&token=687c664d-6b04-4aa1-bac5-3fc6f388ede6",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "SV Darmstadt 98",
+                        "abbrev": "DAR"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2FSV_Darmstadt_98_logo.webp?alt=media&token=7be44a43-48af-4c71-a83e-a77cd63dfa57",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "SV Werder Bremen",
+                        "abbrev": "SVW"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSVW-48x48.webp?alt=media&token=e7b68f97-833d-46f3-84b1-0b9e53bea8ba",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "TSG 1899 Hoffenheim",
+                        "abbrev": "TSG"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FTSG-48x48.webp?alt=media&token=3960ec0b-d58f-428d-9622-b3d5ea98c397",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "VfB Stuttgart",
+                        "abbrev": "VFB"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2FVfB_Stuttgart_1893_Logo.svg.webp?alt=media&token=17a75c4d-961b-413d-b0b0-0876a7cd9739",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "VfL Bochum",
+                        "abbrev": "BOC"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2FVfL-Bochum.webp?alt=media&token=beeadb83-6e18-433d-bead-0ff40db3d9df",
+                    "active": false
+                },
+                {
+                    "club": {
+                        "normal": "VfL Wolfsburg",
+                        "abbrev": "WOB"
+                    },
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FWOB-48x48.webp?alt=media&token=86a40a8f-b17c-4f24-a145-bb1adf6f5777",
+                    "active": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,231 @@
+{
+    "data": {
+        "league": {
+            "name": "Bundesliga",
+            "image": "data:image/webp;base64,UklGRuQEAABXRUJQVlA4WAoAAAAQAAAALwAALwAAQUxQSKsBAAANkARJtmlbvfa5eLZt4/OMvm3btm0bM9u2bdu2bf+z99rzM/8RETEB+81fAvZlr3NB8ISNCQ5Ak400ASDYmPAfQBbKVgYLGLaC6POEbSUSjn6CtpOCm6CVoZUD7FDKATYAZgeglQOQDmYYJIWAVjBI8V9oIkmQIEuQRVCkiSwCSGpAAmAmVkQgxYROkX5HtrR9vq++vNBx84Wa/x40dv5Y/axjROD9uZ3LXJva+O4xVImfldw+6cg82SBjxueph/fvmZH8bU17ebxhUtvGuF5/R7EWtTre3Wt1ihrX8nXz67vQLGr+nrtzap31H4qrG+nul6zvUQrMnlZs1dlBQJOPV0Ifv3v0vCs/m4ScP4D+Vg+m+RtNLs47vUgWin2nA/4BQnwfff/UGR+IH16e33IL3q+gTo9seNeHITgQcnCl2qXO/Sv51evYsUnpu2s7fu4NCZiVMGCfH+pn4p55dH+pYktWjYh8WCzn2tngnSU7l2pcwudE4d8dj4zrs//P9eH7Liwqc9sxqanL9W32g1biZ5PRB3ZMdS51J1bueXys15/pb+tvaHVmAMzlAFZQOCASAwAAcBAAnQEqMAAwAD6RNplHpaKioS40DmCwEglsAK5Vjda+Mf1X8YPxm6e/VDzG238QD1pdNm9ADytvZQ8oi7y/wHK5bgZQP2bzA0gWNL/S+ofnNejfYI/WD0gPYl6I36wEKsl/GLt/me1CHBlHHUIZSwfHIi7opI+CCRUtYJdc7PSB2UBHbW+uFVAK62AA/vRFmgmbsATDbO5nrMDIIw/9pv0Jia/PkjQDgCZZ3lbTjxftfabAWLOgKKdKKiq4quBFAbVYty7y/5QpH71JPV048Ddles/3jC5nxvaD5I0sfeqiyP8G9fn27i6pn0emG6t2At8Acd/g4MlPZeeth3le9y4Pd0oj6jIKkKVWnVfj5PWBbVXz8tYdneaQ0xS5b+D17QusOWABvd0O3H+uI24oip+fX8f+3UF/9jhiknzpUEnc1T0rDP4DghNtz+YuGjnWQM6WklJEzFqj9hYejMM52Hd8MoHmZTCa7BlhbxK1+H4A9924D9aErry0k0Tlx6irir5SGPpci04u9cPI2D0RW3NSjL6rEgk84nv5Tv925Yf3/5dPT8wg6KgU65o9veTc6UN1FPhIOX/UnYRWjxTSb4pAqqVLMNPE4jnORQDkX9JCHqNvohUE/czT0MoB5O60EHSc3YMPudAPzQamoQAjVItijOnk3T3spc3RUF4/BoC5xG2XDO7Scuux9cwSd2iZaAYqeWbxVsmiv7nCu2QYA0g8BfzRmkZ6nYfbWoooebFKh0Q307PjhbM6NxtzTCQdML+EsXZOhLegomcDaXx0K3WIcYzkVCBNvLduXRPMXlCVr0uuAqXfXb/yOdIOXnlGsWcZOPMo1f+9Gu3hRNOCMqklYqClFfGmpKR/p/qH6Uq+s2n8wP6s3Cz03hv17FmBDNamPpE9s/5c9F+JipTL2uu9Br6JL5aPl555el19I7s14Fm8uePrM8bJTQmHE0dhgiwia1wjGMBiPl4I9ZZ2mILXqXVUyk7gUVx06uWSWfaqgVwvVlf+dlWSkD8dwKrgjXjMlc9Ft7RJsSQsBvhpiIAA"
+        },
+        "currentRound": 24,
+        "clubs": [
+            {
+                "club": {
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                    "normal": "Bayer 04 Leverkusen",
+                    "abbrev": "B04"
+                },
+                "startingPoints": 64,
+                "matches": [
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FWOB-48x48.webp?alt=media&token=86a40a8f-b17c-4f24-a145-bb1adf6f5777",
+                        "normal": "VfL Wolfsburg",
+                        "abbrev": "WOB",
+                        "result": {
+                            "type": "w",
+                            "currentPoints": 0
+                        },
+                        "home": true
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSCF-48x48.webp?alt=media&token=687c664d-6b04-4aa1-bac5-3fc6f388ede6",
+                        "normal": "SC Freiburg",
+                        "abbrev": "SCF",
+                        "result": {
+                            "type": "w",
+                            "currentPoints": 0
+                        },
+                        "home": false
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FTSG-48x48.webp?alt=media&token=3960ec0b-d58f-428d-9622-b3d5ea98c397",
+                        "normal": "TSG 1899 Hoffenheim",
+                        "abbrev": "TSG",
+                        "result": {
+                            "type": "w",
+                            "currentPoints": 0
+                        },
+                        "home": true
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCU-48x48.webp?alt=media&token=5ce20d5a-2e73-4905-9d61-63419d72ce7d",
+                        "normal": "1. FC Union Berlin",
+                        "abbrev": "FCU",
+                        "result": {
+                            "type": "w",
+                            "currentPoints": 0
+                        },
+                        "home": false
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSVW-48x48.webp?alt=media&token=e7b68f97-833d-46f3-84b1-0b9e53bea8ba",
+                        "normal": "SV Werder Bremen",
+                        "abbrev": "SVW",
+                        "result": {
+                            "type": "",
+                            "currentPoints": 0
+                        },
+                        "home": true
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FBVB-48x48.webp?alt=media&token=ac51d3ff-42c0-4b07-8d89-780fe5b87138",
+                        "normal": "Borussia Dortmund",
+                        "abbrev": "BVB",
+                        "result": {
+                            "type": "",
+                            "currentPoints": 0
+                        },
+                        "home": false
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FVFB-48x48.webp?alt=media&token=e5611d96-614b-4792-841e-5136db8a9f2f",
+                        "normal": "VfB Stuttgart",
+                        "abbrev": "VFB",
+                        "result": {
+                            "type": "",
+                            "currentPoints": 0
+                        },
+                        "home": true
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSGE-48x48.webp?alt=media&token=4a9068db-182e-41b9-9099-926cda4cdf02",
+                        "normal": "Eintracht Frankfurt",
+                        "abbrev": "SGE",
+                        "result": {
+                            "type": "",
+                            "currentPoints": 0
+                        },
+                        "home": false
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FBOC-48x48.webp?alt=media&token=d66db937-9902-4678-9b6e-b111cae225a9",
+                        "normal": "VfL Bochum",
+                        "abbrev": "BOC",
+                        "result": {
+                            "type": "",
+                            "currentPoints": 0
+                        },
+                        "home": false
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCA-48x48.webp?alt=media&token=b5da9249-b044-4202-bb39-234ee70f373e",
+                        "normal": "FC Augsburg",
+                        "abbrev": "FCA",
+                        "result": {
+                            "type": "",
+                            "currentPoints": 0
+                        },
+                        "home": true
+                    }
+                ]
+            },
+            {
+                "club": {
+                    "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                    "normal": "FC Bayern München",
+                    "abbrev": "FCB"
+                },
+                "startingPoints": 54,
+                "matches": [
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FM05-48x48.webp?alt=media&token=a45bad43-77b1-432c-a489-ff812313a34e",
+                        "normal": "1. FSV Mainz 05",
+                        "abbrev": "M05",
+                        "result": {
+                            "type": "w",
+                            "currentPoints": 0
+                        },
+                        "home": true
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FDAR-48x48.webp?alt=media&token=3fca1350-a1f2-4caf-ab03-9f6fc7807192",
+                        "normal": "Darmstadt",
+                        "abbrev": "DAR",
+                        "result": {
+                            "type": "w",
+                            "currentPoints": 0
+                        },
+                        "home": false
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FBVB-48x48.webp?alt=media&token=ac51d3ff-42c0-4b07-8d89-780fe5b87138",
+                        "normal": "Borussia Dortmund",
+                        "abbrev": "BVB",
+                        "result": {
+                            "type": "l",
+                            "currentPoints": 0
+                        },
+                        "home": true
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCH-48x48.webp?alt=media&token=e4cdbca0-f84a-4787-871b-4cd765fefe10",
+                        "normal": "1. FC Heidenheim",
+                        "abbrev": "FCH",
+                        "result": {
+                            "type": "l",
+                            "currentPoints": 0
+                        },
+                        "home": false
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FKOE-48x48.webp?alt=media&token=c60b385b-a75d-487d-ac82-67cccc8a549c",
+                        "normal": "1. FC Köln",
+                        "abbrev": "KOE",
+                        "result": {
+                            "type": "",
+                            "currentPoints": 0
+                        },
+                        "home": true
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCU-48x48.webp?alt=media&token=5ce20d5a-2e73-4905-9d61-63419d72ce7d",
+                        "normal": "1. FC Union Berlin",
+                        "abbrev": "FCU",
+                        "result": {
+                            "type": "",
+                            "currentPoints": 0
+                        },
+                        "home": false
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSGE-48x48.webp?alt=media&token=4a9068db-182e-41b9-9099-926cda4cdf02",
+                        "normal": "Eintracht Frankfurt",
+                        "abbrev": "SGE",
+                        "result": {
+                            "type": "",
+                            "currentPoints": 0
+                        },
+                        "home": true
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FVFB-48x48.webp?alt=media&token=e5611d96-614b-4792-841e-5136db8a9f2f",
+                        "normal": "VfB Stuttgart",
+                        "abbrev": "VFB",
+                        "result": {
+                            "type": "",
+                            "currentPoints": 0
+                        },
+                        "home": false
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FWOB-48x48.webp?alt=media&token=86a40a8f-b17c-4f24-a145-bb1adf6f5777",
+                        "normal": "VfL Wolfsburg",
+                        "abbrev": "WOB",
+                        "result": {
+                            "type": "",
+                            "currentPoints": 0
+                        },
+                        "home": true
+                    },
+                    {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FTSG-48x48.webp?alt=media&token=3960ec0b-d58f-428d-9622-b3d5ea98c397",
+                        "normal": "TSG 1899 Hoffenheim",
+                        "abbrev": "TSG",
+                        "result": {
+                            "type": "",
+                            "currentPoints": 0
+                        },
+                        "home": false
+                    }
+                ]
+            }
+        ]
+    }
+}

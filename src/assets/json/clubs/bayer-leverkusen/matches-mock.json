@@ -1,0 +1,726 @@
+{
+    "data": [
+        {
+            "club": {
+                "normal": "FC Bayern München",
+                "abbrev": "FCB"
+            },
+            "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+            "results": [
+                {
+                    "code": 240210,
+                    "league": "Bundesliga",
+                    "round": 21,
+                    "matchday": {
+                        "normal": "February 10, 2024",
+                        "abbrev": "Feb 10, 24"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 0
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230915,
+                    "league": "Bundesliga",
+                    "round": 4,
+                    "matchday": {
+                        "normal": "September 15, 2023",
+                        "abbrev": "Sep 15, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 20230319,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "March 19, 2023",
+                        "abbrev": "Mar 19, 23"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 1
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 220930,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "September 30, 2022",
+                        "abbrev": "Sep 30, 22"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 4
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 220305,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "March 5, 2022",
+                        "abbrev": "Mar 5, 22"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 211017,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "October 17, 2021",
+                        "abbrev": "Oct 17, 21"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 5
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 210420,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "April 20, 2021",
+                        "abbrev": "Apr 20, 21"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 201219,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "December 19, 2020",
+                        "abbrev": "Dec 19, 20"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 2
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 200704,
+                    "league": "DFB-Pokal",
+                    "round": "Final",
+                    "matchday": {
+                        "normal": "July 4, 2020",
+                        "abbrev": "Jul 4, 20"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 4
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 200606,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "Juni 6, 2020",
+                        "abbrev": "Jun 6, 20"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 4
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 191130,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "November 30, 2019",
+                        "abbrev": "Nov 30, 19"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 190202,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "February 2, 2019",
+                        "abbrev": "Feb 2, 19"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 3
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 1
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 180915,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "September 15, 2018",
+                        "abbrev": "Sep 15, 18"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 3
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 180417,
+                    "league": "DFB-Pokal",
+                    "round": "Semi-final",
+                    "matchday": {
+                        "normal": "April 17, 2018",
+                        "abbrev": "Apr 17, 18"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 6
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 180112,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "January 12, 2018",
+                        "abbrev": "Jan 12, 18"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 3
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 170818,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "August 18, 2017",
+                        "abbrev": "Aug 18, 17"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 3
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 170415,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "April 15, 2017",
+                        "abbrev": "Apr 15, 17"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 0
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 161126,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "November 26, 2016",
+                        "abbrev": "Nov 26, 16"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 1
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 160206,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "February 6, 2016",
+                        "abbrev": "Feb 6, 16"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 0
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 150829,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "August 29, 2015",
+                        "abbrev": "Aug 29, 15"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 3
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 150502,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "May 2, 2015",
+                        "abbrev": "May 2, 15"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 2
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 0
+                    },
+                    "result": "w",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                },
+                {
+                    "code": 150408,
+                    "league": "DFB-Pokal",
+                    "round": "Quarter-final",
+                    "matchday": {
+                        "normal": "April 8, 2015",
+                        "abbrev": "April 8, 15"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 0
+                    },
+                    "result": "d",
+                    "penalties": {
+                        "home": 3,
+                        "away": 5
+                    },
+                    "hasPenalty": true
+                },
+                {
+                    "code": 141206,
+                    "league": "Bundesliga",
+                    "round": "",
+                    "matchday": {
+                        "normal": "December 6, 2014",
+                        "abbrev": "Dec 6, 14"
+                    },
+                    "home": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+                        "club": {
+                            "normal": "FC Bayern München",
+                            "abbrev": "FCB"
+                        },
+                        "score": 1
+                    },
+                    "away": {
+                        "logo": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+                        "club": {
+                            "normal": "Bayer 04 Leverkusen",
+                            "abbrev": "B04"
+                        },
+                        "score": 0
+                    },
+                    "result": "l",
+                    "penalties": {
+                        "home": 0,
+                        "away": 0
+                    },
+                    "hasPenalty": false
+                }
+            ]
+        }
+    ]
+}

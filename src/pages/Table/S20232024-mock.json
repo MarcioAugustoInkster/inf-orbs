@@ -1,0 +1,3694 @@
+{
+    "data": [
+        {
+            "name": {
+                "normal": "1. FC Heidenheim 1846",
+                "abbrev": "FCH"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCH-48x48.webp?alt=media&token=e4cdbca0-f84a-4787-871b-4cd765fefe10",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 2,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 3,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 4,
+                    "homeScore": 4,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 5,
+                    "homeScore": 4,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 6,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 7,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 8,
+                    "homeScore": 2,
+                    "awayScore": 5,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 9,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 10,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 11,
+                    "homeScore": 4,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 12,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 13,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 14,
+                    "homeScore": 3,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 15,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 16,
+                    "homeScore": 3,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 17,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 18,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 19,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 20,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 21,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 22,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 23,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 24,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 25,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 26,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 27,
+                    "homeScore": 3,
+                    "awayScore": 3,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 28,
+                    "homeScore": 3,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": true
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "1. FC Köln",
+                "abbrev": "KOE"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FKOE-48x48.webp?alt=media&token=c60b385b-a75d-487d-ac82-67cccc8a549c",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 2,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 3,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 4,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 5,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 6,
+                    "homeScore": 0,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 7,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 8,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 9,
+                    "homeScore": 6,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 10,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 11,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 12,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 13,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 14,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 15,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 16,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 17,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 18,
+                    "homeScore": 0,
+                    "awayScore": 4,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 19,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 20,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 21,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 22,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 23,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 24,
+                    "homeScore": 0,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 25,
+                    "homeScore": 3,
+                    "awayScore": 3,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 26,
+                    "homeScore": 1,
+                    "awayScore": 5,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 27,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 28,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "1. FC Union Berlin",
+                "abbrev": "FCU"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCU-48x48.webp?alt=media&token=5ce20d5a-2e73-4905-9d61-63419d72ce7d",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 4,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 2,
+                    "homeScore": 1,
+                    "awayScore": 4,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 3,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 4,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 5,
+                    "homeScore": 0,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 6,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 7,
+                    "homeScore": 4,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 8,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 9,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 10,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 11,
+                    "homeScore": 4,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 12,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 13,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 14,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 15,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 16,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 17,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 18,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 19,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 20,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 21,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 22,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 23,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 24,
+                    "homeScore": 0,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 25,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 26,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 27,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 28,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": true
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "1. FSV Mainz 05",
+                "abbrev": "M05"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FM05-48x48.webp?alt=media&token=a45bad43-77b1-432c-a489-ff812313a34e",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 4,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 2,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 3,
+                    "homeScore": 4,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 4,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 5,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 6,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 7,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 8,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 9,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 10,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 11,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 12,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 13,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 14,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 15,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 16,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 17,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 18,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 19,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 20,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 21,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 22,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 23,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 24,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 25,
+                    "homeScore": 8,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 26,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 27,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 28,
+                    "homeScore": 4,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "Bayer 04 Leverkusen",
+                "abbrev": "B04"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FB04-48x48.webp?alt=media&token=938d351c-025a-4965-857f-8a25b0fdde38",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 3,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 2,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 3,
+                    "homeScore": 5,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 4,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 5,
+                    "homeScore": 4,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 6,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 7,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 8,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 9,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 10,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 11,
+                    "homeScore": 4,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 12,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 13,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 14,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 15,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 16,
+                    "homeScore": 4,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 17,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 18,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 19,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 20,
+                    "homeScore": 0,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 21,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 22,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 23,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 24,
+                    "homeScore": 0,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 25,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 26,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 27,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 28,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": false
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "Borussia Dortmund",
+                "abbrev": "BVB"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FBVB-48x48.webp?alt=media&token=ac51d3ff-42c0-4b07-8d89-780fe5b87138",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 2,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 3,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 4,
+                    "homeScore": 2,
+                    "awayScore": 4,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 5,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 6,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 7,
+                    "homeScore": 4,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 8,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 9,
+                    "homeScore": 3,
+                    "awayScore": 3,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 10,
+                    "homeScore": 0,
+                    "awayScore": 4,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 11,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 12,
+                    "homeScore": 4,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 13,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 14,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 15,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 16,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 17,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 18,
+                    "homeScore": 0,
+                    "awayScore": 4,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 19,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 20,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 21,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 22,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 23,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 24,
+                    "homeScore": 0,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 25,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 26,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 27,
+                    "homeScore": 0,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 28,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": true
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "Borussia Mönchengladbach",
+                "abbrev": "BMG"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FBMG-48x48.webp?alt=media&token=f89ff7d4-3ea8-4dc4-8ab8-06ab65b6d34e",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 4,
+                    "awayScore": 4,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 2,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 3,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 4,
+                    "homeScore": 3,
+                    "awayScore": 3,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 5,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 6,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 7,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 8,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 9,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 10,
+                    "homeScore": 3,
+                    "awayScore": 3,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 11,
+                    "homeScore": 4,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 12,
+                    "homeScore": 4,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 13,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 14,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 15,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 16,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 17,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 18,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 19,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 20,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 21,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 22,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 23,
+                    "homeScore": 5,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 24,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 25,
+                    "homeScore": 3,
+                    "awayScore": 3,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 26,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 27,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 28,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "Eintracht Frankfurt",
+                "abbrev": "SGE"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSGE-48x48.webp?alt=media&token=4a9068db-182e-41b9-9099-926cda4cdf02",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 2,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 3,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 4,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 5,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 6,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 7,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 8,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 9,
+                    "homeScore": 3,
+                    "awayScore": 3,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 10,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 11,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 12,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 13,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 14,
+                    "homeScore": 5,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 15,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 16,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 17,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 18,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 19,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 20,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 21,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 22,
+                    "homeScore": 3,
+                    "awayScore": 3,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 23,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 24,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 25,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 26,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 27,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 28,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "FC Augsburg",
+                "abbrev": "FCA"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCA-48x48.webp?alt=media&token=b5da9249-b044-4202-bb39-234ee70f373e",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 4,
+                    "awayScore": 4,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 2,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 3,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 4,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 5,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 6,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 7,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 8,
+                    "homeScore": 2,
+                    "awayScore": 5,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 9,
+                    "homeScore": 3,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 10,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 11,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 12,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 13,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 14,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 15,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 16,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 17,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 18,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 19,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 20,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 21,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 22,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 23,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 24,
+                    "homeScore": 0,
+                    "awayScore": 6,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 25,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 26,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 27,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 28,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "FC Bayern München",
+                "abbrev": "FCB"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FFCB-48x48.webp?alt=media&token=22df7e61-cd40-45f1-8594-da1a61b3bbfe",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 0,
+                    "awayScore": 4,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 2,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 3,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 4,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 5,
+                    "homeScore": 7,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 6,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 7,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 8,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 9,
+                    "homeScore": 8,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 10,
+                    "homeScore": 0,
+                    "awayScore": 4,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 11,
+                    "homeScore": 4,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 12,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 13,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 14,
+                    "homeScore": 5,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 15,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 16,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 17,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 18,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 19,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 20,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 21,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 22,
+                    "homeScore": 3,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 23,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 24,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 25,
+                    "homeScore": 8,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 26,
+                    "homeScore": 2,
+                    "awayScore": 5,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 27,
+                    "homeScore": 0,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 28,
+                    "homeScore": 3,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": false
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "RB Leipzig",
+                "abbrev": "RBL"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FRBL-48x48.webp?alt=media&token=145ed236-1c93-4694-ac32-b44e7bf5cf7c",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 3,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 2,
+                    "homeScore": 5,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 3,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 4,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 5,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 6,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 7,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 8,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 9,
+                    "homeScore": 6,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 10,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 11,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 12,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 13,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 14,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 15,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 16,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 17,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 18,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 19,
+                    "homeScore": 5,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 20,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 21,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 22,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 23,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 24,
+                    "homeScore": 1,
+                    "awayScore": 4,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 25,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 26,
+                    "homeScore": 1,
+                    "awayScore": 5,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 27,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 28,
+                    "homeScore": 1,
+                    "awayScore": 4,
+                    "result": "w",
+                    "home": false
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "Sport-Club Freiburg",
+                "abbrev": "SCF"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FTSG-48x48.webp?alt=media&token=3960ec0b-d58f-428d-9622-b3d5ea98c397",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 2,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 3,
+                    "homeScore": 5,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 4,
+                    "homeScore": 2,
+                    "awayScore": 4,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 5,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 6,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 7,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 8,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 9,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 10,
+                    "homeScore": 3,
+                    "awayScore": 3,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 11,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 12,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 13,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 14,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 15,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 16,
+                    "homeScore": 3,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 17,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 18,
+                    "homeScore": 3,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 19,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 20,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 21,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 22,
+                    "homeScore": 3,
+                    "awayScore": 3,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 23,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 22,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 25,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 26,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 27,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 28,
+                    "homeScore": 1,
+                    "awayScore": 4,
+                    "result": "l",
+                    "home": true
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "SV Darmstadt 98",
+                "abbrev": "SVD"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FDAR-48x48.webp?alt=media&token=3fca1350-a1f2-4caf-ab03-9f6fc7807192",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 2,
+                    "homeScore": 1,
+                    "awayScore": 4,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 3,
+                    "homeScore": 5,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 4,
+                    "homeScore": 3,
+                    "awayScore": 3,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 5,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 6,
+                    "homeScore": 4,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 7,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 8,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 9,
+                    "homeScore": 8,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 10,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 11,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 12,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 13,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 14,
+                    "homeScore": 3,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 15,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 16,
+                    "homeScore": 3,
+                    "awayScore": 3,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 17,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 18,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 19,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 20,
+                    "homeScore": 0,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 21,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 22,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 23,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 24,
+                    "homeScore": 0,
+                    "awayScore": 6,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 25,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 26,
+                    "homeScore": 2,
+                    "awayScore": 5,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 27,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 28,
+                    "homeScore": 4,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "SV Werder Bremen",
+                "abbrev": "SVW"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSVW-48x48.webp?alt=media&token=e7b68f97-833d-46f3-84b1-0b9e53bea8ba",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 0,
+                    "awayScore": 4,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 2,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 3,
+                    "homeScore": 4,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 4,
+                    "homeScore": 4,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 5,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 6,
+                    "homeScore": 4,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 7,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 8,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 9,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 10,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 11,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 12,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 13,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 14,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 15,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 16,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 17,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 18,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 19,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 20,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 21,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 22,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 23,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 24,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 25,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 26,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 27,
+                    "homeScore": 0,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 28,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "TSG 1899 Hoffenheimoffenheim",
+                "abbrev": "TSG"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FTSG-48x48.webp?alt=media&token=3960ec0b-d58f-428d-9622-b3d5ea98c397",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 2,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 3,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 4,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 5,
+                    "homeScore": 0,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 6,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 7,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 8,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 9,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 10,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 11,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 12,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 13,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 14,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 15,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 16,
+                    "homeScore": 3,
+                    "awayScore": 3,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 17,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 18,
+                    "homeScore": 3,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 19,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 20,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 21,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 22,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 23,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 24,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 25,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 26,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 27,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 28,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "VfB Stuttgart",
+                "abbrev": "VFB"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FVFB-48x48.webp?alt=media&token=e5611d96-614b-4792-841e-5136db8a9f2f",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 5,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 2,
+                    "homeScore": 5,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 3,
+                    "homeScore": 5,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 4,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 5,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 6,
+                    "homeScore": 0,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 7,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 8,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 9,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 10,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 11,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 12,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 13,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 14,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 15,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 16,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 17,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 18,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 19,
+                    "homeScore": 5,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 20,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 21,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 22,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 23,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 24,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 25,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 26,
+                    "homeScore": 0,
+                    "awayScore": 3,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 27,
+                    "homeScore": 3,
+                    "awayScore": 3,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 28,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": false
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "VfL Bochum",
+                "abbrev": "BOC"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FBOC-48x48.webp?alt=media&token=d66db937-9902-4678-9b6e-b111cae225a9",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 5,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 2,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 3,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 4,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 5,
+                    "homeScore": 7,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 6,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 7,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 8,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 9,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 10,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 11,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 12,
+                    "homeScore": 0,
+                    "awayScore": 0,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 13,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 14,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 15,
+                    "homeScore": 3,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 16,
+                    "homeScore": 4,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 17,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 18,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 19,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 20,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 21,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 22,
+                    "homeScore": 3,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 23,
+                    "homeScore": 5,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 24,
+                    "homeScore": 1,
+                    "awayScore": 4,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 25,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 26,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 27,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 28,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                }
+            ]
+        },
+        {
+            "name": {
+                "normal": "VfL Wolfsburg",
+                "abbrev": "WOB"
+            },
+            "image": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FWOB-48x48.webp?alt=media&token=86a40a8f-b17c-4f24-a145-bb1adf6f5777",
+            "matches": [
+                {
+                    "round": 1,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 2,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 3,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 4,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 5,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 6,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 7,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 8,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 9,
+                    "homeScore": 3,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 10,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 11,
+                    "homeScore": 4,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 12,
+                    "homeScore": 2,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": true
+                },
+                {
+                    "round": 13,
+                    "homeScore": 3,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 14,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 15,
+                    "homeScore": 0,
+                    "awayScore": 1,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 16,
+                    "homeScore": 1,
+                    "awayScore": 2,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 17,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 18,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 19,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 20,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 21,
+                    "homeScore": 1,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 22,
+                    "homeScore": 1,
+                    "awayScore": 1,
+                    "result": "d",
+                    "home": true
+                },
+                {
+                    "round": 23,
+                    "homeScore": 2,
+                    "awayScore": 2,
+                    "result": "d",
+                    "home": false
+                },
+                {
+                    "round": 24,
+                    "homeScore": 2,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 25,
+                    "homeScore": 2,
+                    "awayScore": 0,
+                    "result": "l",
+                    "home": false
+                },
+                {
+                    "round": 26,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                },
+                {
+                    "round": 27,
+                    "homeScore": 0,
+                    "awayScore": 2,
+                    "result": "w",
+                    "home": false
+                },
+                {
+                    "round": 28,
+                    "homeScore": 1,
+                    "awayScore": 3,
+                    "result": "l",
+                    "home": true
+                }
+            ]
+        }
+    ]
+}

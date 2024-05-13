@@ -1,0 +1,853 @@
+{
+    "data": [
+        {
+            "goals": [
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230819,
+                    "time": 35,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230826,
+                    "time": 45,
+                    "extratime": 6,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231112,
+                    "time": 73,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240120,
+                    "time": 63,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230819,
+                    "time": 24,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231008,
+                    "time": 32,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231021,
+                    "time": 13,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231125,
+                    "time": 42,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231217,
+                    "time": 51,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240210,
+                    "time": 90,
+                    "extratime": 5,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240217,
+                    "time": 45,
+                    "extratime": 2,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240303,
+                    "time": 37,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230819,
+                    "time": 64,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231029,
+                    "time": 36,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231104,
+                    "time": 9,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231210,
+                    "time": 47,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231217,
+                    "time": 57,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240310,
+                    "time": 86,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240317,
+                    "time": 2,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240406,
+                    "time": 45,
+                    "extratime": 8,
+                    "penalty": true
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240414,
+                    "time": 68,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240414,
+                    "time": 83,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240414,
+                    "time": 90,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230826,
+                    "time": 18,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230826,
+                    "time": 53,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230902,
+                    "time": 21,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230902,
+                    "time": 61,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230924,
+                    "time": 9,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230924,
+                    "time": 74,
+                    "extratime": 0,
+                    "penalty": true
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231008,
+                    "time": 67,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231203,
+                    "time": 79,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231217,
+                    "time": 14,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231220,
+                    "time": 69,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240414,
+                    "time": 25,
+                    "extratime": 0,
+                    "penalty": true
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230902,
+                    "time": 49,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230915,
+                    "time": 90,
+                    "extratime": 4,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240113,
+                    "time": 90,
+                    "extratime": 4,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230902,
+                    "time": 67,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230924,
+                    "time": 63,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230930,
+                    "time": 65,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231008,
+                    "time": 22,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231029,
+                    "time": 60,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230902,
+                    "time": 83,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240317,
+                    "time": 40,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240223,
+                    "time": 3,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240414,
+                    "time": 60,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230915,
+                    "time": 24,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230930,
+                    "time": 59,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231021,
+                    "time": 62,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231104,
+                    "time": 45,
+                    "extratime": 1,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231104,
+                    "time": 70,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231112,
+                    "time": 23,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231125,
+                    "time": 76,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240210,
+                    "time": 50,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240303,
+                    "time": 73,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20230924,
+                    "time": 82,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240217,
+                    "time": 81,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231112,
+                    "time": 57,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231112,
+                    "time": 83,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240120,
+                    "time": 47,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240203,
+                    "time": 33,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240203,
+                    "time": 52,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240310,
+                    "time": 37,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231220,
+                    "time": 30,
+                    "extratime": 0,
+                    "penalty": true
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231220,
+                    "time": 32,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20231220,
+                    "time": 45,
+                    "extratime": 1,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240317,
+                    "time": 53,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240330,
+                    "time": 90,
+                    "extratime": 1,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240120,
+                    "time": 90,
+                    "extratime": 1
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240223,
+                    "time": 68,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240330,
+                    "time": 88,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Bundesliga",
+                    "matchdayCode": 20240210,
+                    "time": 18,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20230812,
+                    "time": 67,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20240403,
+                    "time": 7,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20230812,
+                    "time": 45,
+                    "extratime": 1,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20240403,
+                    "time": 35,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20240403,
+                    "time": 60,
+                    "extratime": 0,
+                    "penalty": true
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20230812,
+                    "time": 42,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20231206,
+                    "time": 12,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20231101,
+                    "time": 21,
+                    "extratime": 0,
+                    "penalty": true
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20231206,
+                    "time": 28,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20230812,
+                    "time": 81,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20231101,
+                    "time": 54,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20240206,
+                    "time": 90,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20230812,
+                    "time": 74,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20230812,
+                    "time": 90,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20231101,
+                    "time": 85,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20230812,
+                    "time": 16,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20230812,
+                    "time": 59,
+                    "extratime": 0,
+                    "penalty": true
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20231101,
+                    "time": 88,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20231101,
+                    "time": 90,
+                    "extratime": 2,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20240206,
+                    "time": 66,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20240403,
+                    "time": 20,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20231206,
+                    "time": 87,
+                    "extratime": 0
+                },
+                {
+                    "league": "DFB-Pokal",
+                    "matchdayCode": 20240206,
+                    "time": 50,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20231005,
+                    "time": 14,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20240314,
+                    "time": 72,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20240418,
+                    "time": 89,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20230921,
+                    "time": 10,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20231026,
+                    "time": 4,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20240307,
+                    "time": 70,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20230921,
+                    "time": 66,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20231026,
+                    "time": 35,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20231109,
+                    "time": 90,
+                    "extratime": 4,
+                    "penalty": true
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20231130,
+                    "time": 14,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20240411,
+                    "time": 90,
+                    "extratime": 1,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20230921,
+                    "time": 70,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20240411,
+                    "time": 83,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20231214,
+                    "time": 60,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20231214,
+                    "time": 70,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20231026,
+                    "time": 29,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20231026,
+                    "time": 54,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20231026,
+                    "time": 57,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20231214,
+                    "time": 22,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20230921,
+                    "time": 16,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20231005,
+                    "time": 18,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20231130,
+                    "time": 74,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20231214,
+                    "time": 6,
+                    "extratime": 0,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20240307,
+                    "time": 90,
+                    "extratime": 2,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20240314,
+                    "time": 90,
+                    "extratime": 3,
+                    "penalty": false
+                },
+                {
+                    "league": "Europa League",
+                    "matchdayCode": 20240314,
+                    "time": 90,
+                    "extratime": 7,
+                    "penalty": false
+                }
+            ]
+        }
+    ]
+}

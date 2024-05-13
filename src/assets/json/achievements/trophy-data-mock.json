@@ -1,0 +1,866 @@
+{
+    "data": [
+        {
+            "country": "brazil",
+            "item": {
+                "championships": [
+                    {
+                        "index": 1,
+                        "league": "Brasileirão",
+                        "abbrev": "BR",
+                        "image": "data:image/webp;base64,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"
+                    },
+                    {
+                        "index": 4,
+                        "league": "Copa do Brasil",
+                        "abbrev": "CB",
+                        "image": "data:image/webp;base64,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"
+                    },
+                    {
+                        "index": 5,
+                        "league": "Super Copa do Brasil",
+                        "abbrev": "SC",
+                        "image": "data:image/webp;base64,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"
+                    },
+                    {
+                        "index": 2,
+                        "league": "Libertadores",
+                        "abbrev": "LB",
+                        "image": "data:image/webp;base64,UklGRq4GAABXRUJQVlA4WAoAAAAQAAAALwAALwAAQUxQSNEDAAABoEbbtqlH2vueG6ds23bKtm3btm3btm3btq04ZZ12f+8b3f8jYgLwP02SbkSCIgTpFgStAQHCWIKOESQE2U8cTQcBCToFGvRpjfKq+dCqDwzhNCHRwk6hoGoAToVEsaBDtJhfd5T6ZlPN5qvDa8+CpWNDTxbSAulUExbSfMcHOwYi0sMSYX1TqMbsH1rsQSQQTlksGrJnW2rV2Dt3DFwA65ygyuYJN7OoJr0zdn0liGMg4u0f8LKQ/sjypv/+uCCcI7YNeFNFvxZ9P2Ab6A4Wy4a/aqJfa78ethTWPeZMfNH1549OLyfNcZf5ox6N0G/dn4ya7y6Lpr0apt+6vpm6yD0Em0a+H66/+geO3ARxB/Do0OBhqt1ChxwBnaNBkvNDwvuodooYdD4xjHOC2ocnvu2t2vr9hMO1IHTMYtX0nVd7qra9um3aSlinSER9Xy9kxfCXN3qvCKzzNjJIRwgPDLhfUrtPLlx0bDctdr8PPEAHCEH8n50Ha+Gdey5sLqCDuvyICwFdB8KeDEz8/Gf8J/u3P47381mSwKMCwvUG0XZp7Sq6N+G95LEOxN6vVWrplkig64gYWZPYeGlj+sQDPRg7bTybJGt0JwCCljAi1loxMBYkXE9QhARJGoIgQRGCrgJIdCzZsFKZ0jVSl+lRr3emVlUCYOB6witd6pWNV084s2rdtlUrm5xZM39nF+TyBF0XpV3AwBRz+1y8tPDn8sU19q8fuqWz6RPpXwhBoVhDETGItHfwykmDpo+oP2xx2wN91k7aVhwWxgqNiFCswV8SJAgQPh4eAlojkX09GMUzqjdoQBiCMATz+CJSrkgF6yWyASVKRMtdP6NP0TxFskUK8ESOqgU9DQq2S4bUNUsyduEyuZG/SWrNjHxvq3898rJayJVj1T5cDx5z4fuXee20KJ4Ffz4nU3/c/lbwwOvAma31wtSWgafP/8qG/K9rhdR70+pF3zIZv0bftRqPuuFE4GIEV47+ZUxIRaw+erZO0zs9HjdLOyWoZorvmZDvVbXPWx80fXN8coZPweFpcL9l2lfjwmI9r4VH69+mx8C7+z5q1Wafd7fEqBc3dULjii9qh2W7teZJrzolgmqEVMKTJlOOTP7Z9eaihd8z3jja7NPQYz1PD2/9sl7FPp2H6YYDu0vPCth/YVGG1UcOllzq23UiZpabUApth4+7vjsfUm27MwaT82dbUW3f6TkNrhwvi78lARKGIAgKQYKGIAyMAQGAoLXWiBFjjVhrLEUgRgxERKzAWLEUY8RYK3/m34N/C5IE/wyCJPi3IPHfDwBWUDggtgIAAJAMAJ0BKjAAMAA+jTaVR6UioiExyACgEYliDbildHJUtRtoLtV3jafHNRqgRzc4CkQMnzwfoV85D1J7BnR6/ar2Rv1gZc3M2FrWUxxdCC8fLw2rwBQM4QZdzVGmSnkU6dbCeLfUHpzFWtaoggAA/vZQf/+0D//rYD//resge7uwemD/eduhiQJnYvInufzP312IxqYMq7Dnvd+i74h4Rj5QpwsPyGGcV/w2mlw4ZWjp6lkPpe8K73A+7oJumc9thZTdGUKStX0+PVuqoXPjSO/y2SCNE3LNpwmvsf8AQKg1yuvOQH+2PdoJI9YkEy1hcaygQSjfHXiceB06xgx4p+rRqZLI0cluH0r/7vn//2/r/9eX//9dffOQ3R8NAfuxd19E+fCKaMd+z/8eshacs3+LNrM77j3a5S+5d5mTrCm3/mu0drSDs9pfrH+iTLuzAbHrTkYoXVrqVB/rCGo2/oKquuKZm+ngf+RsGO269zueH0wVe/R6FZbYv0oZ8zutllCQS6cbiNN8Bn/wHb1Ql2C5S1fNmSwdBzE5tONo3/HLShx6ASLz0rnJEhkjd6KBdFFfs11PPbenZg1RhKWYLTK+26j9+G0A3Ou0UlVArFsfXLUjye+wGH3fl+K++0ilyjjV7tRjWAcP83h6oNtiQ0dHFkFXk9S49K9g2BFYzgA8VJzg79NQTlXv99K/8YRFqbVVwTkCR93V9HKyeKHp23MYy9aeN3DvRh9P2h9q4PpklyB6V7b3sHJAkNwWiKL2ITifSXZ+eVfBI8MPsezDjXzbvceGES/1d4U30aHwNz1q/jtQvpxr1viI645vx5hST8cDNmat7mYt0CkLBgNlegLElQGJrPdHPjc02aBljYhuoxIlhvQNB7M1eAryS6jPHLktHecYc7Ws9kpl6a6RoGedQ4AAAAA="
+                    },
+                    {
+                        "index": 7,
+                        "league": "Sulamericana",
+                        "abbrev": "SL",
+                        "image": "data:image/webp;base64,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"
+                    },
+                    {
+                        "index": 6,
+                        "league": "Recopa Sulamericana",
+                        "abbrev": "RS",
+                        "image": "data:image/webp;base64,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"
+                    },
+                    {
+                        "index": 3,
+                        "league": "Mundial de Clubes",
+                        "abbrev": "MC",
+                        "image": "data:image/webp;base64,UklGRrIEAABXRUJQVlA4WAoAAAAQAAAALwAALwAAQUxQSEwCAAABoLVtmyFJlv9+GTG27Vnbtm3btm3bNs5s69C2d8e2MiKeYXVFRMQEqKUmc6aOAzrJnMmU3WROW778/7RRr20rZ7J8VukmEpC4S97JLIvJWuti6pBIoeZaOWeyDCbzWm4OiSUTc09eSVUWmdoNupbAMiPxaLkcpjZvMptGAwtGqsrzLbGhyBtOlkFOq8+j8TkrqVJGk9cthAYCD8rLMsgq9R1PWhZhDTlTFnldTSDEJQJvyFkeWaUhM1jAUiP7y5symdeTvHPeX0BiVGdZLpnT9kzsMCRC4Al5UzZT+z/Yo/tSDixB5vUQd3WuScwfoaqMA/hy4CwivziZCqi0XJqz0XhqXpYrQaZWv3HE3yzgJrUqw+k1rv2FBZwoX4bXHTz/MzW7y6uIVjqHT/8ksqlcEfI6jB9HkVi7nD34byKJdcvZkYnTiWxe0tTZBPaWL2V3psyh5jS1skIOY9xsau6SL8Ja6Rz+mEXgPbkyvO7is1kk/u+gMpze5PV5AOvKWQlq/RePAIGz5Qswp5UYdy2RyDuqSvA6gg8uIgCzh6qyEp7muqupIXCGfDYzdRnFJo8TIPKFmVkmee3DgidHk4DELvKZrNKAUSSWnvizuyrL43UZgZCWQuA0+Sxmav87iWVHvnaqTNY8rwOJNJrYSc7UfKv0QQsCL2ikkzXNaT1aPGujQ9s1z7zuZV6IMSUgpRjDPG7dtk0Gp4NqWjr7iLVd82SmgSc8+tGP/0+cOm3qhP9++PCR4/rLydQ8OZPJdezZr3+/nh0rmawyU+NWUDggQAIAAPALAJ0BKjAAMAA+kTyZSaWjIiEquqlYsBIJQBobApc+C47wAqgRwLiO9APpzzq/4Dh7/5n1Fc9H077AnSO/YD0K1fr9jtgzfqlre+GGu5N8d0e54MwQ/yu2nUeJjJCS8Y3LQSZ6OFQIAP7/OkH/30EySGbsSXVo9lmOuetgVDE/+L567VAwkN4AyH5TZFMkAGxPQ/slKGd8d/O59BRqlYw2DmZfF9QBjij/C+rhsmKwiOpHRV+11Mpp/+zOmQ2PhUMwe5tqrBf6FEunXdXMhf3BBs7hScyQ3xNxii2MIEHhU7Ntv/MR7u9zmYNYky+upr1qTGK4VviZxicCl051dx8NgSx6xhOhQx6r///UxQfF71QDb3uO2A62dbKQBmgVA9YyiiwB4EJQ1R02wGLl78fUvq7vEW1HdlGynZ6/lZ0T7/SvYu9ollmJwV9gdUiNxYyliUPLjno3jkx/PrT+szWjcOWzbA43p3qnBrPAGkCL/5+G4f/+gD5piHQ6xmD7Y5HaRlMPC8UQmH0WVYbwRvqJ9VaA//6MWDvhg6xFPqa0IPBBR0wYtxLxVprg+ScB1uxEB3mysQCqKfqrD7k2+gzRRcjCHZrlFmdHSePNpzjfveiJtAGq5RnfAZ5El4Ku1dIGug9gDuqc4mObmbk1FxWUF7gLULEceDP0EZIC5N+hnnp3fm/aqHz0YJb10F3QqeDCv/4QXlAtGRnP/Zq92Mnr4Q+yV/CmrZ2OG0xybIywLL3lu0YYoC9jm2+Of1wAAA=="
+                    },
+                    {
+                        "index": 8,
+                        "league": "Brasileirão B",
+                        "abbrev": "BB",
+                        "image": "data:image/webp;base64,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"
+                    }
+                ],
+                "hiddenColumns": [],
+                "clubs": [
+                    {
+                        "name": "Athletico Paranaense",
+                        "abbrev": "CAP",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["2001"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["2019"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": ["2018", "2021"],
+                            "secondaryLeague": ["1995"]
+                        },
+                        "relegations": ["1989", "1993", "2011"]
+                    },
+                    {
+                        "name": "Atlético-MG",
+                        "abbrev": "CAM",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1937", "1971", "2021"],
+                            "continentalPrimaryLeague": ["2013"],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["2014", "2021"],
+                            "primarySuperCup": ["2022"],
+                            "contientalCup": ["2014"],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["2006"]
+                        },
+                        "relegations": ["2005"]
+                    },
+                    {
+                        "name": "Bahia",
+                        "abbrev": "BAH",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1959", "1988"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": [],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": ["1997", "2003", "2014", "2021"]
+                    },
+                    {
+                        "name": "Botafogo",
+                        "abbrev": "BOT",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1968", "1995"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": [],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["2015", "2021"]
+                        },
+                        "relegations": ["2002", "2014", "2020"]
+                    },
+                    {
+                        "name": "Chapecoense",
+                        "abbrev": "CHA",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": [],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": [],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": ["2016"],
+                            "secondaryLeague": ["2020"]
+                        },
+                        "relegations": ["2019", "2021"]
+                    },
+                    {
+                        "name": "Corinthians",
+                        "abbrev": "COR",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1990", "1998", "1999", "2005", "2011", "2015", "2017"],
+                            "continentalPrimaryLeague": ["2012"],
+                            "intercontinentalCup": ["2000", "2012"],
+                            "primaryCup": ["1995", "2002", "2009"],
+                            "primarySuperCup": ["1991"],
+                            "contientalCup": ["2013"],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["2008"]
+                        },
+                        "relegations": ["2007"]
+                    },
+                    {
+                        "name": "Coritiba",
+                        "abbrev": "CTB",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1985"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": [],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["2007", "2010"]
+                        },
+                        "relegations": ["1989", "1993", "2005", "2009", "2011", "2017", "2020", "2023"]
+                    },
+                    {
+                        "name": "Criciúma",
+                        "abbrev": "CRI",
+                        "icon": "data:image/webp;base64,UklGRiAHAABXRUJQVlA4WAoAAAAQAAAALwAALwAAQUxQSFADAAABoEVtmyFJ+v6IzMLYtm3btm0bV7Znbdt2YWzbtm3UVv3nVEZEZi9vI4KB20aKZpJj6OEj8D/TROqRQAQtAqVoCiQIpJchSAqUlmVJEMhKNoEgnCApwh6oXIZE3bqQymCg7V0i1Jx0dFw1CGTq8PPPHTJBoNq4o5Nqet6BBAps4XV5IAijmEeBBPKs4y0FIAgekXhr+auQJFFj+fIaSoBXl78F6X0W6UqgeBqQQNF06YpCENIUR4l0IM9aKH+8CmwQQUoQwUaV4+Vhgbx7jW9VhQ0IIgHYqHqLryl495kKAaT6TMOrcY5rqDpBNLzKOrrsEZIop6gjpaZKOUhymy5xx0llIqkxyJ0SxkmCkMi0lmNsyHUjW7YbBjnGazNBCpBhutan/sAKM2XKmF0R8H9ay5nUj3aZf7WDJhJcujQnTAbtX/lyeQf9RE/5dyMJZ5Aw+js/Vc5jOmtMw1hmYxxXsbXnbcBULrJC0nLXOc5sxFAuKlwvhzpXOc7sgl5mNa7W6cWJBLuilbvOvr3QMeEFtbyY6AgbXeIeeObUMw/GuyS10dmd5ewUL3e3M2yQN6JcsiRHPUoasT+1fsK/WL4NlStv8Fm/8BM9TUwXGmzoOK9PkynZqdeyMY1BaQkKoOvaUDQUXh4NRaLh0LphkDbG7/o1FI2GQk6cyNpO8FmW9t8nkMs/IV8xCAhpTEMgiwAioOa4IqJh985p87VA9pEdUKZ2robjh5bJ3TFr7s55ULseWcjdrmf/bEDmQR0t0Pinu65Xv/vr2R+H3st2+vDjSUt3tWF8trk3T1zAXeS9R7mBvvz1NyWR9ujxO6/Cd+xL5Mt5/8dDS4ed78pZM4vXt7RmfLxu4JM/lnPr3ju3TAH68DfvZEZzzps6J2jzqmyf1r/xPXcYfK0ZV5w87IVdDbhw6PfRGw7t2Dvg5+sXdwP9ePKAArUac83hswo2rHb8wY4ilxo/t3vUCfnh3acdpm/B8ru3aw3/4L2Xv1hwZOLom+XR9eHOHcNuFH3h3rOe8w8jkFtSWp+VPlVqQo70CKSGyJUO/qDfH0iTlihdAHbajJl8QYnsGeALCgEhQAIEkiAJkBqDiAApoZzPkEp/8koschJrSQxtyKCl+q9vAFZQOCCqAwAA0BEAnQEqMAAwAD6NNJZHpSKiITHZnACgEYlsALszRoqzkx/44E445wG3q8wHMZ+tV1AHoAeWX7E37qelJSDakEcCuIFXyMn0G81T07+wHwBfqj6Tfrm/Yj2GP2ZbYxd0HrPh7+/K2+/VLoCAOHCqKSDb9j4jwRW8+xULFhO8WRG9M9xYbxIKtrqDhZvYSAT+U2+31O5VkAD+/51x+OLL4BHrsMSinclUat9q7Zl+dL0bE06Zk+q1i8uKUf+52WzzfCbys2Dy1+zcpBX4W+UD7f+iV+Y76i8VGTaBoVfGvHeJR1n0S511qBSJD8ywSTqcprj3jOoOTab/34OBsVzh/QsfeDJ4S1LxAcbLTB/93unZP9Rl9ttElrJ4KxmOl9lnLQMOZVBvm7kD1Qb9WLbfbdWz/6zWOQjW1LIvCT/7hJfA1SkkzzskvT+Qd/7LO9cZAKu1yEGw48Jpul9oVk/OxC0VAyBmCmUcvl0DQ27nCTEwdTFo97eckr/pSUU4+we7d/nvNNMzleKHw3hYmfaBSwsCIPc8B/PZIJWGK8T5hUhIJVNPqibjP89jLgsUOujuPlhU59pfPmtyM/OoUCrm/14reZHKUqvqgFe3gCyS7x/l6APa4Zodsfr9RVonPLSnJwIdFSK3MRlTuBOQ0TAggQ4gN+TTlu9++nFqyacDTCjBBTg81TTJu9B31nlmQ2YuR/E7TzIlJA7/jhUHmk4FHDN4X/U15PrLpcD8b1/uXkayngysg9iBqonzrq22J5X1WNc3pxq4aHfureAqtIrMGqwEHbFgPYklx2gkfJo0OAvy806dBIKTmuJkwVbt/wkzkmtWZk5OhzOrbDl3LTXJZILrrXIeAKWdSMPHDaiyr7kIa4aj+NOiB4WBsoirw4KGr5H+rkTzmW/z2hEeckjwzOPfB/6cgFDAUNIJcY6QKDS/Ooej2lcynwhCMSL59McpudDN16cYQQLWPufmQXcwYZmCVNqrqY4RWtfGsG+ymTYj62HLR1FHYw021DGwWbsWXL91/s44ahqKZwFtPOlZzU93zkIdtW+nnzXcwc73l0n/YDfCSK/B/cuZN8ohM2U7XtE8QM17uQqmGw+R5vqRWggVLUOzfRHUa2M8VwJKGJ+QHbySXFpaua1yVKckMIM4WgXsecIeinveyiXOc6+f3Ec75liPFL2mErGy2lhlxc9yhfs1VA2rRFOPLHt5b+rNYxGBVMZdgSv4nF2X6h/GWlEKCTy2OXiAAAA=",
+                        "trophies": {
+                            "primaryLeague": [],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1991"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["2002"]
+                        },
+                        "relegations": ["1988", "1997", "2004", "2014"]
+                    },
+                    {
+                        "name": "Cruzeiro",
+                        "abbrev": "CRU",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1966", "2003", "2013", "2014"],
+                            "continentalPrimaryLeague": ["1976", "1997"],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1993", "1996", "2000", "2003", "2017", "2018"],
+                            "primarySuperCup": [],
+                            "contientalCup": ["1998"],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["2022"]
+                        },
+                        "relegations": ["2019"]
+                    },
+                    {
+                        "name": "Flamengo",
+                        "abbrev": "FLA",
+                        "icon": "data:image/webp;base64,UklGRoQEAABXRUJQVlA4WAoAAAAQAAAALwAALwAAQUxQSGYBAAABkHPbtrE9+9x7PlRfbFa2baO0bf+DjNTGr0jl0uhSsbLZOXnOvTt43KaJiAkAFCtorGHCA2gA/s9YXrvZDPXYn+YxibEOxlXQtIGsZeCiNIfOn2tBjob/R9DwmLEO37rDpThcZqgu8lEDJEVxmlad8RJ81rp6HIKmwGNAYPWB87IE7j5DVZGfOsAhTXGYVpXxPLxkeExhrG4tNAMC3GGoJvJdO7gcit20aoxHoYIsQevnjJXwWx+4HBDFPloVxpNQySVovstQXuSHbnCC3B5zqki4HYp8AsUxJmUZz8GJIL+INN6mlRP4pCOcoAgcej6nlRH4ZTQ8CkHgMfQDrVhgMgsKQXGBYug7JkWMX2ZCIShToOh9j0nMlfDNOCgE5Qo8Ws4wWJYZb3aFQsqCwHts/UKzf4LRDnrxEJQvcIpeZ8kYYyBvDoM6CKoUiDrMuEFGPlwsogJBtSLwCiy892RjE7yHCIoCVlA4IPgCAADwDgCdASowADAAPpE+l0iloyIhLjgJmLASCWwAnTM0Q6+774DCPdrDAbYDzAfrZ+unvRaZf6AHS0/t96RifLlgaQKZJ5Bvp32Cf1V6wHochoVlkzyH7BrpZUki/uaR9rJtDQfcdfh+qAyBvF3aYB6Tgsnq2hU8sjRsQiP+kV/egAD++RIkruR0tEURbYrQ2BwcjNWjW7+5uZuyFdlnjiUd1pdfDorGIT7EjIMQkDs0f0YzDQSSiSwLIsWC8LepSUNmqp9tjrFgfD/fx8JYVvr+I7JFOtThSMGEaStgvzZxHlxfOliGLHtwwE+E5dOdCr/m4OMQZxfgaQDO0XXhV7OVZCiNf72PsmaX3bAX8OQN4byRbDOQyqKEGVUtPCxzrEtdxoEjhBkSvy0UDbSN1fM/cI9doOf7qJ/Pq6/wmo/hfqyP0DSVD3vOfPfnNm1WY+l2DFh7D7IT2Z6qteypB0ErG/bv0y2ZcOOWyf4/4uqplV4HBLaEzrmLkswBISRyzsu/lR6MF4oWwxs+fCgAp5zQEmWuo9zY77HVSht3NONw5g4kQ1PRqJ4nCM51nPCcpR6vBUcroUvkTa1ACkwFUKikUA7Sto0X458SWR9aMUxQMF6Wr68um5d1JFjVdIJrXWlsILl4nkNbrqUuTt/rwOoZ4FX9h+Y/3+EaZVDVbk4lWYIjCkwr3MEgSKO1a4EndqQGD1ap8cKPYzcQzH1Rg/pmbyAfjL5bTj23sXa8awb7AvI49twGxp9tqqhLgj5aWOufX9BfsrMjbQjyfOU2xRkr+D21ZB7YcZsbjwaBYtIzBeM4Xn+W+nwQrWD+jWZr2Ej3LDU97xQQr21H/eAj7KFmnjMNvRrszGy19BgggDjmzAovssm/mMtl//IrvD/hR/x28T7FZbSe8dKKsc03/e/JwB8Z8U3i7KKtQec+KZHDHK3/ILWyvklnKmVt68CjpVWkrBSqZBvKJeEuR6eP//CEVJ6gw0tJPhjuZYxuY7LJd9NnBnVF4AAA",
+                        "trophies": {
+                            "primaryLeague": ["1980", "1982", "1983", "1992", "2009", "2019", "2020"],
+                            "continentalPrimaryLeague": ["1981", "2019", "2022"],
+                            "intercontinentalCup": ["1981"],
+                            "primaryCup": ["1990", "2006", "2013", "2022"],
+                            "primarySuperCup": ["2020", "2021"],
+                            "contientalCup": ["2020"],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Fluminense",
+                        "abbrev": "FLU",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1970", "1984", "2010", "2012"],
+                            "continentalPrimaryLeague": ["2023"],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["2007"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": ["1996", "1997"]
+                    },
+                    {
+                        "name": "Grêmio",
+                        "abbrev": "GRE",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1981", "1996"],
+                            "continentalPrimaryLeague": ["1983", "1995", "2017"],
+                            "intercontinentalCup": ["1983"],
+                            "primaryCup": ["1989", "1994", "1997", "2001", "2016"],
+                            "primarySuperCup": ["1990"],
+                            "contientalCup": ["1996", "2018"],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["2005"]
+                        },
+                        "relegations": ["1991", "2004", "2021"]
+                    },
+                    {
+                        "name": "Guarani",
+                        "abbrev": "GUA",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1978"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": [],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["1981"]
+                        },
+                        "relegations": ["1989", "2004", "2010"]
+                    },
+                    {
+                        "name": "Internacional",
+                        "abbrev": "INT",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1975", "1976", "1979"],
+                            "continentalPrimaryLeague": ["2006", "2010"],
+                            "intercontinentalCup": ["2006"],
+                            "primaryCup": ["1992"],
+                            "primarySuperCup": [],
+                            "contientalCup": ["2007", "2011"],
+                            "continentalSecondaryLeague": ["2008"],
+                            "secondaryLeague": []
+                        },
+                        "relegations": ["2016"]
+                    },
+                    {
+                        "name": "Juventude",
+                        "abbrev": "JUV",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": [],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1999"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["1994"]
+                        },
+                        "relegations": ["2007", "2022"]
+                    },
+                    {
+                        "name": "Palmeiras",
+                        "abbrev": "PAL",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1960", "1967", "1967", "1969", "1972", "1973", "1993", "1994", "2016", "2018", "2022", "2023"],
+                            "continentalPrimaryLeague": ["1999", "2020", "2021"],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1998", "2012", "2015", "2020"],
+                            "primarySuperCup": ["2023"],
+                            "contientalCup": ["2022"],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["2003", "2013"]
+                        },
+                        "relegations": ["2002", "2012"]
+                    },
+                    {
+                        "name": "Paulista",
+                        "abbrev": "PAU",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": [],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["2005"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Santo André",
+                        "abbrev": "STA",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": [],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["2004"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": ["2009"]
+                    },
+                    {
+                        "name": "Santos",
+                        "abbrev": "SAN",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1961", "1962", "1963", "1964", "1965", "1968", "2002", "2004"],
+                            "continentalPrimaryLeague": ["1962", "1963", "2011"],
+                            "intercontinentalCup": ["1962", "1963"],
+                            "primaryCup": ["2010"],
+                            "primarySuperCup": [],
+                            "contientalCup": ["2012"],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": ["2023"]
+                    },
+                    {
+                        "name": "São Paulo",
+                        "abbrev": "SPA",
+                        "icon": "data:image/webp;base64,UklGRhwFAABXRUJQVlA4WAoAAAAQAAAALwAALwAAQUxQSFABAAABkGLbtmpH+zwIOZKcSI7mdIDJMnjGBjB0gKEBHE8FHi1XKVSVd2/OGG+8d8mWiQgGbtvG2Ry0u7grr+D/Luuz8/rjevk1IN1ORTfmOHI44ykEOHKXiPcQeJT1goWr+V0GEXyUfHVzH8kfC+GDEKDF0ea/BgRxEUKMu9gleDD2CABRgG17IOLVVIFAHl3bTgWfwycQkvGQ/56lnfAmF15cSMVH7R8b/Jl/ViZ0KBKgx2aQ3I5AWUjgS+aA4FmE6krhJxxZtB+pKg1Q9isWZvP7TCLVqATKvpkAkj8VqQUN0CZMwKcmtaAFJvW7BA+rBQNgVwdEvG46VzTkrXoq+CLZfubxUPCBpUn7WcRH/d8UHku/qtS6MdDHMj12JE+yzgpHSWEuqduGfJzFibcONO1nBeS8Zin4MYuUuiVQ8YP5S7GpYNqQ8qlRLTgAlmZMBQBWUDggpgMAALASAJ0BKjAAMAA+kUCYSiWjoiGnOAyQsBIJYgDSnwJ6BTAVhnkgG8k+Srd6P3nocvPJ+piIfun4q7CBxhONv9V+TPMB2rX5R84hMf/t/nF/5HlN+f/+r7g/8i/oP/C+4D5T/Xf6EH69Gvq92KFU455oCC9izssd81yXTPKe6V9FV+vc8EzFda/lXDblnpOzdG7uRIdAjnLR4teepvVAAP72b327v4srvRmSZctgTb/5a7v+q+GlK/HOyaOPfOHQ1/mDlz4dUAs2IMPv0v6YcXQdi2XqkHet3ZfYXZbxxCKGdRMIwsJsZqkc2JI4/wwHitqjS/9G/DAVmZCUomAcwuRspy/3uYB/ho+V6fdn4qsBOOrjRUx5frcI0Q7v5zHON9Wvg/vDr167GKEPvDXZbQbGtnwdkJYpJz2+Tbh2Qv8k+4XVjtf9wDu+kxuktTWbnI+f1xmsd/1Qf2ptw/ADwUSL/0PLhv/P00441OVmz3szFwEbhYGnRrfHfBmrZ5N9WL3Uq7tM/6LOnQuj6TcZkqwgnN0f9Qp5fV9+pLaDm+olsJADM/LR0997j08iQ6PrzZI8b37GiAR8gmzLQ4jNZMItGGGyTre//BlAXUFduHS3j9twaiEz+b/gofpTIYSsYj3JL+LkWBDAij1ovEqH9aZ+dFlREXSa5Ocj8DbC5wHfq4vmxrxL/WzcRmua6L4llDzTwhS2WsZantgxZcitaPB73d3Z4dr4fgrA0TJ4Hn/3hn7+vN+lEvPv+bR997OTKz9XfuBbvcNSdgAeY/RMgG1O/swNt4R/Xt2f58iIzFKh8Uz2ZDXrwXk973d/BMZ9/wat/nLW7wH83ldlfQ9/kgpeKfWgqAJvw78vfhvQra7xTSTIQ9RcLekLic7wApVv2cCMRkfhgob4g5LgVck5/2LbHih++/UjZSE2BUYDH0Ysz7ryAAgn8uh0y77hhYvZ5Z6nnQj3PNdTMHknWCu926IBElpnZeleX2XtVSDgpfMNeKXej62CUdvxzbYpUDFsJphjcwPS0L/uLDkAttugGaecZCCds6Zvjt5UOzOm6+xJLQriGbeGjFu8MzFlNGaaVr5EzQzaM8erh8QeR/gc5CgkicL+YLr7/JMyJuFBkZ65h38ly/IBA9GFYC5lszJjsFZdmzyydlWFEE7WtepCQuex6Hh5TnjP/6n8/fFZUKflWIXooBOL+LgepaytAt7VQhz6IQMF8l6NmojUkNgaKdGIHnesAAA=",
+                        "trophies": {
+                            "primaryLeague": ["1977", "1986", "1991", "2006", "2007", "2008"],
+                            "continentalPrimaryLeague": ["1992", "1993", "2005"],
+                            "intercontinentalCup": ["1992", "1993", "2005"],
+                            "primaryCup": ["2023"],
+                            "primarySuperCup": [],
+                            "contientalCup": ["1993", "1994"],
+                            "continentalSecondaryLeague": ["2012"],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Sport",
+                        "abbrev": "SPO",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1987"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["2008"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["1990"]
+                        },
+                        "relegations": ["1989", "2002", "2009", "2011", "2012", "2018", "2021"]
+                    },
+                    {
+                        "name": "Vasco da Gama",
+                        "abbrev": "VAS",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1974", "1989", "1997", "2000"],
+                            "continentalPrimaryLeague": ["1998"],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["2011"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["2009"]
+                        },
+                        "relegations": ["2008", "2013", "2015", "2020"]
+                    }
+                ]
+            }
+        },
+        {
+            "country": "germany",
+            "item": {
+                "championships": [
+                    {
+                        "index": 1,
+                        "league": "Bundesliga",
+                        "abbrev": "BL",
+                        "image": "data:image/webp;base64,UklGRuQEAABXRUJQVlA4WAoAAAAQAAAALwAALwAAQUxQSKsBAAANkARJtmlbvfa5eLZt4/OMvm3btm0bM9u2bdu2bf+z99rzM/8RETEB+81fAvZlr3NB8ISNCQ5Ak400ASDYmPAfQBbKVgYLGLaC6POEbSUSjn6CtpOCm6CVoZUD7FDKATYAZgeglQOQDmYYJIWAVjBI8V9oIkmQIEuQRVCkiSwCSGpAAmAmVkQgxYROkX5HtrR9vq++vNBx84Wa/x40dv5Y/axjROD9uZ3LXJva+O4xVImfldw+6cg82SBjxueph/fvmZH8bU17ebxhUtvGuF5/R7EWtTre3Wt1ihrX8nXz67vQLGr+nrtzap31H4qrG+nul6zvUQrMnlZs1dlBQJOPV0Ifv3v0vCs/m4ScP4D+Vg+m+RtNLs47vUgWin2nA/4BQnwfff/UGR+IH16e33IL3q+gTo9seNeHITgQcnCl2qXO/Sv51evYsUnpu2s7fu4NCZiVMGCfH+pn4p55dH+pYktWjYh8WCzn2tngnSU7l2pcwudE4d8dj4zrs//P9eH7Liwqc9sxqanL9W32g1biZ5PRB3ZMdS51J1bueXys15/pb+tvaHVmAMzlAFZQOCASAwAAcBAAnQEqMAAwAD6RNplHpaKioS40DmCwEglsAK5Vjda+Mf1X8YPxm6e/VDzG238QD1pdNm9ADytvZQ8oi7y/wHK5bgZQP2bzA0gWNL/S+ofnNejfYI/WD0gPYl6I36wEKsl/GLt/me1CHBlHHUIZSwfHIi7opI+CCRUtYJdc7PSB2UBHbW+uFVAK62AA/vRFmgmbsATDbO5nrMDIIw/9pv0Jia/PkjQDgCZZ3lbTjxftfabAWLOgKKdKKiq4quBFAbVYty7y/5QpH71JPV048Ddles/3jC5nxvaD5I0sfeqiyP8G9fn27i6pn0emG6t2At8Acd/g4MlPZeeth3le9y4Pd0oj6jIKkKVWnVfj5PWBbVXz8tYdneaQ0xS5b+D17QusOWABvd0O3H+uI24oip+fX8f+3UF/9jhiknzpUEnc1T0rDP4DghNtz+YuGjnWQM6WklJEzFqj9hYejMM52Hd8MoHmZTCa7BlhbxK1+H4A9924D9aErry0k0Tlx6irir5SGPpci04u9cPI2D0RW3NSjL6rEgk84nv5Tv925Yf3/5dPT8wg6KgU65o9veTc6UN1FPhIOX/UnYRWjxTSb4pAqqVLMNPE4jnORQDkX9JCHqNvohUE/czT0MoB5O60EHSc3YMPudAPzQamoQAjVItijOnk3T3spc3RUF4/BoC5xG2XDO7Scuux9cwSd2iZaAYqeWbxVsmiv7nCu2QYA0g8BfzRmkZ6nYfbWoooebFKh0Q307PjhbM6NxtzTCQdML+EsXZOhLegomcDaXx0K3WIcYzkVCBNvLduXRPMXlCVr0uuAqXfXb/yOdIOXnlGsWcZOPMo1f+9Gu3hRNOCMqklYqClFfGmpKR/p/qH6Uq+s2n8wP6s3Cz03hv17FmBDNamPpE9s/5c9F+JipTL2uu9Br6JL5aPl555el19I7s14Fm8uePrM8bJTQmHE0dhgiwia1wjGMBiPl4I9ZZ2mILXqXVUyk7gUVx06uWSWfaqgVwvVlf+dlWSkD8dwKrgjXjMlc9Ft7RJsSQsBvhpiIAA"
+                    },
+                    {
+                        "index": 4,
+                        "league": "DFB-Pokal",
+                        "abbrev": "PK",
+                        "image": "data:image/webp;base64,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"
+                    },
+                    {
+                        "index": 5,
+                        "league": "DFL-Supercup",
+                        "abbrev": "SC",
+                        "image": "data:image/webp;base64,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"
+                    },
+                    {
+                        "index": 2,
+                        "league": "UEFA Champions League",
+                        "abbrev": "CL",
+                        "image": "data:image/webp;base64,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"
+                    },
+                    {
+                        "index": 6,
+                        "league": "UEFA Europa League",
+                        "abbrev": "EL",
+                        "image": "data:image/webp;base64,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"
+                    },
+                    {
+                        "index": 3,
+                        "league": "Mundial de Clubes",
+                        "abbrev": "MC",
+                        "image": "data:image/webp;base64,UklGRrIEAABXRUJQVlA4WAoAAAAQAAAALwAALwAAQUxQSEwCAAABoLVtmyFJlv9+GTG27Vnbtm3btm3bNs5s69C2d8e2MiKeYXVFRMQEqKUmc6aOAzrJnMmU3WROW778/7RRr20rZ7J8VukmEpC4S97JLIvJWuti6pBIoeZaOWeyDCbzWm4OiSUTc09eSVUWmdoNupbAMiPxaLkcpjZvMptGAwtGqsrzLbGhyBtOlkFOq8+j8TkrqVJGk9cthAYCD8rLMsgq9R1PWhZhDTlTFnldTSDEJQJvyFkeWaUhM1jAUiP7y5symdeTvHPeX0BiVGdZLpnT9kzsMCRC4Al5UzZT+z/Yo/tSDixB5vUQd3WuScwfoaqMA/hy4CwivziZCqi0XJqz0XhqXpYrQaZWv3HE3yzgJrUqw+k1rv2FBZwoX4bXHTz/MzW7y6uIVjqHT/8ksqlcEfI6jB9HkVi7nD34byKJdcvZkYnTiWxe0tTZBPaWL2V3psyh5jS1skIOY9xsau6SL8Ja6Rz+mEXgPbkyvO7is1kk/u+gMpze5PV5AOvKWQlq/RePAIGz5Qswp5UYdy2RyDuqSvA6gg8uIgCzh6qyEp7muqupIXCGfDYzdRnFJo8TIPKFmVkmee3DgidHk4DELvKZrNKAUSSWnvizuyrL43UZgZCWQuA0+Sxmav87iWVHvnaqTNY8rwOJNJrYSc7UfKv0QQsCL2ikkzXNaT1aPGujQ9s1z7zuZV6IMSUgpRjDPG7dtk0Gp4NqWjr7iLVd82SmgSc8+tGP/0+cOm3qhP9++PCR4/rLydQ8OZPJdezZr3+/nh0rmawyU+NWUDggQAIAAPALAJ0BKjAAMAA+kTyZSaWjIiEquqlYsBIJQBobApc+C47wAqgRwLiO9APpzzq/4Dh7/5n1Fc9H077AnSO/YD0K1fr9jtgzfqlre+GGu5N8d0e54MwQ/yu2nUeJjJCS8Y3LQSZ6OFQIAP7/OkH/30EySGbsSXVo9lmOuetgVDE/+L567VAwkN4AyH5TZFMkAGxPQ/slKGd8d/O59BRqlYw2DmZfF9QBjij/C+rhsmKwiOpHRV+11Mpp/+zOmQ2PhUMwe5tqrBf6FEunXdXMhf3BBs7hScyQ3xNxii2MIEHhU7Ntv/MR7u9zmYNYky+upr1qTGK4VviZxicCl051dx8NgSx6xhOhQx6r///UxQfF71QDb3uO2A62dbKQBmgVA9YyiiwB4EJQ1R02wGLl78fUvq7vEW1HdlGynZ6/lZ0T7/SvYu9ollmJwV9gdUiNxYyliUPLjno3jkx/PrT+szWjcOWzbA43p3qnBrPAGkCL/5+G4f/+gD5piHQ6xmD7Y5HaRlMPC8UQmH0WVYbwRvqJ9VaA//6MWDvhg6xFPqa0IPBBR0wYtxLxVprg+ScB1uxEB3mysQCqKfqrD7k2+gzRRcjCHZrlFmdHSePNpzjfveiJtAGq5RnfAZ5El4Ku1dIGug9gDuqc4mObmbk1FxWUF7gLULEceDP0EZIC5N+hnnp3fm/aqHz0YJb10F3QqeDCv/4QXlAtGRnP/Zq92Mnr4Q+yV/CmrZ2OG0xybIywLL3lu0YYoC9jm2+Of1wAAA=="
+                    },
+                    {
+                        "index": 7,
+                        "league": "Bundesliga 2",
+                        "abbrev": "B2",
+                        "image": "data:image/webp;base64,UklGRhoFAABXRUJQVlA4WAoAAAAQAAAALwAALwAAQUxQSAMCAAABkIRt21k5b/Kf5J+Z2rbbnW3btm1jNWZt27Zt21zbyK+6OV+76ioiFLhto2R0zPeJzsvnzieUecv7zTfKEIoym+YaTxGKZ9aTu43/fdhAjDDrKNFSepQZJaUmLdbyn+2mNS1KKkq0kooyo6TUfouDae8X3+2DwGf7oPDTngwtf2ofPH9oT8Jv2xPxa3syxM/tyZhnvmhjSPkL/0hoQpFm43xyl6dsqdKEUqpsAZCLE8J5wHFthzPuMscNcM4d5nLuMs45c13GHM4czjljLg/YACwLP8SCZcP6aYLf5AD8fiGWhdrhkwbbtTqjdJ+wcfVRskua0VHhxdEictoQ9FgTF9a+NlCtO/LHrxpqo83EFFhzu9n74bFXMfppFvU2pP/VAmbJTpl+z62J3dp/Hjor48m5wKQrzrOjw2MDae6r1lh1qeb9WnEXMfp+jidnJnW+nF/nZarhxnN9c3cwwwri3Cxg0tEaKmP16ui9a+herLzX83bdSZcw6nH2F5XPbT5ayOSF13T93fiqaLzcVDgwB5h8rK6XOukt334q8m3W9Wez353Ux2ty4kRGkaWdOVDYjE0w2fYdq1OvXPfaosGOc73KxF1O5U1q9KT881WTXozvs3v/mtx89q19xVKuzILFkVk27NnbEuP2n5lV7tztRIzbe3pUy6modfxmfN1FLgbHAwBWUDgg8AIAABAOAJ0BKjAAMAA+kT6XSCWjoiEuOAswsBIJbAC297F8BxtNAHiZ71V1Ge8c+Urc8+hVRf4D94O0tuhGJP9pxlaUSZv47vqz2CiK2vxw9nEos/zxjKGYFG/HBJ3+P+mnzeHtzol/fHTlkg25wFx2zSAg+yh2k/4GyIAA/vQiLklziFE5L5ZRziDQo9fZ37tlLz8Rt6qdhir3g5ZUewJpMN+a9jLvnlvx4U6faNJn2usciZDiy+j3s++tBe0gropD/cepFRTFdb//trb253+2Hv7Bj01/0uw+DOg5I3X8S+PrjCnA+nxzOM9KewWc3wZg9MXAayfz53h/l9nTjTqMCL0NQ4XCV3z2xT3n+EeJ/9ayZ/pc3OakA/jxKrJlhzPK1/1Rn99fhP/w1+OVQTrYGtu8bo2uCp8BrcDVLrT3v+eiSpJaEobfWIV/T/0//TU72A2avkzArqtP/pvawOJ8O3pd+lU1FWxItGy9hCxZIj93d4+xQXtemyebOTZH5WUAzZnR2BoxmHs6TGbgg7oo02bgjh8n+EJ1x7bYYaYb5XYDYNcJs/zL6s0zV4uIh5hJd7yThpj37snBTU0Je/Gh79i/0+REmPl+B5D9zxL937v5d5ItbFVNrSHXuMfvG0BSp4t3HAc0OBGv+tgcvpIKi4+KZWWpwUQv+SIvRFBbjieJ0KF0elMhVbvlNXlwYnfWwyOAGHlJGmbVl5pIayNwNlAkoQn0Ab++HRETrKMNCVGCEE991aMZ+K1LeDKA1QNl7RjFwIsv1/s8wxKIcg3n9Si+/v3qdhWsuPcAbuKdR+/X7P/nf+dhKOj6jjY5fI3uMA6C7MvTxpgIYrKRLiccTl7yZtPHdoPxlPo/u8eVHojSjvqh8u0/TjaSiWh0vzby4PM+t8wY/oikOA496zXlr707b8sGcWMTmtbvZURqmbKClO+tDV2mcbXstnxReu+FBoALwuuEtpF19X5YL2uVoW1pvRFLjCmFByT5s2vg0QAA"
+                    }
+                ],
+                "hiddenColumns": ["contientalCup"],
+                "clubs": [
+                    {
+                        "name": "TSV 1860 München",
+                        "abbrev": "TSV",
+                        "icon": "",
+                        "trophies": {
+                            "primaryLeague": ["1965-66"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1942", "1964"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "1. FC Kaiserslautern",
+                        "abbrev": "FCK",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1951", "1953", "1990-91", "1997-98"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1990", "1996"],
+                            "primarySuperCup": ["1991"],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["1996-97", "2009-10"]
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "1. FC Köln",
+                        "abbrev": "KOE",
+                        "icon": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FKOE-48x48.webp?alt=media&token=c60b385b-a75d-487d-ac82-67cccc8a549c",
+                        "trophies": {
+                            "primaryLeague": ["1962", "1963-64", "1977-78"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1968", "1977", "1978", "1983"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["1999-00", "2004-05", "2013-14", "2018-19"]
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "1. FC Lokomotive Leipzig",
+                        "abbrev": "FCL",
+                        "icon": "",
+                        "trophies": {
+                            "primaryLeague": ["1903", "1906", "1913"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1936"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "1. FC Nürnberg",
+                        "abbrev": "FCN",
+                        "icon": "data:image/webp;base64,UklGRhgGAABXRUJQVlA4WAoAAAAQAAAALwAALwAAQUxQSP0BAAABkCvbtmlbY669zrNtZ+9ltmPbTG2ntm1bsW3bNsJ779trj6qDjfkFEeHAbSRFKtDAwvFVvQEhFIg1gqItx287/+Td+2eX907vVBoiKQNBDApgDWynTW8DhvHL/u5FYaxAYthYFBr+mGk654I0nXNM88PkkrAmUgLPQ5dHpPsfPjLwHflpEIwHkXBbFNtI+o4x6PyApyrDphXuBg9yZrEm//mlFVJphbnZT/5nAvrM75FRmP/RZyK6IOgFmyWBhwbfkpoMmN8eXkYiKHozuUnHzzVgJG2LlfxPBfo8nYaIh850pI5GZz2eXNVCwI/lYSwGZE7SGubCCq5kRrWhNNCKAak3DAaW0NfECZj7mbXe8mfVRvkkNdVtqOZIOs5bpI3TR3QR8NEFXZBfbzPQxT99qC++HFY/ZaH6jYYwUP6eNMzT/h6ae9rfcyzS/R0dB1qQur9TwSW9ZcAPpWDRTw8+58CK4DKd2lgeRjx0ZKD6PwmL5Vr/w6dgRCCCItc1HsHxU9b/PAQG9b6o5Ei77BzJ2mr8VyGnembnVK6+J87B7tk5GKK6d5Pl7KeWSEUEs4eia5Pk+IlKsGlH9oSOD+L2hA/9s3tCjB6SGvwg+5WE95B3E0rk9pAowTPw2q9/HT583tu1SFTPidGjijQbs/nMozdvn1zcNbVDyegeBQBWUDgg9AMAAHARAJ0BKjAAMAA+kUCYSKWkIqEuOAmYsBIJbACxJcDZvZAut7XwYvbm8+d6AOeq9iv0AOks8pm746QHDO5H6wnCDKbMVcQGkgxq+en/s+Vn6U/73uIfql/0OBD/VpfdX6sG336+5Ye0ci/gWvArYs2r4iXIzz8FFjSeDMc4zDZKE4YVpOk04uaXizjMLuhWFKUDaAAA/vrq6iFH50IL8KmkU39j1Tltr0y43RuJq1d+07zOqQCZ0F/eCfmvBb2GCBeU53gg3q6l6ZN077xuxlyJBKPpKvOzz+jGY57o1wZ/8dva1nd7gzVF6cH/s0xyl1/+5pn05s1/zMFp4lv1z8BTuctSelH8ZeZ+CbCcwtXufhkLtr5htVsoiy5IgEuVyb/kVbjMRO0o/uQfP0uQuKXhyd30g9sIa3cRfa391SAS7iPTuanbH0qXMl4h1u3S+EN06+VhrwWdZ7u5X8YRTd6x/xEqeP0iV9sRu4TxXB6ngu/Z+dJA5jmHyNVdaGcIkK+HX1CucugWzre2o8fhh1140cZjTdByXGPOG0gFB/xBy14kJR7ARfUbatkKRD4Uw8U3q29tUaiMN2HgySMHMixDWYbYhaTrzAapXX5txxPdT6r/24oJf2/EpVM9vpJO+U7/+JzM1qUFa4C0JKVw0No+Q63bHWfE8D8C16a+qiP6IyOl/+Qr0065P911WR5vOlZu27qL/Zw2H/T4IaTS9VAMnVYQCLv1+WPyLkeLV/CSOpEYfLRa+dbc83f5/5gBg54mDAojj2OBvuUivqMb35igmu2uJbTuP5IAM1/EIVf11yuOyCUC4/YeD0dtOaD7EYUt5v8IyU6Ho4oda/v6rv7MvGxbB88/wnWDQvlzyhn3YW3DhywiybCFU1SH0s4WhhvHps42LjNbuf5D6eRNnc+P+hF3iC0J20Nm9f7P5G52dI2mPSTF6Ump6Plp9jHQyiEqp2r4jICvQxTLl377LdKAUhE1Ru4pooMMyE0BOgAzZwndkVZ9UJNZ3gb8nnTbRy7+cMr7capWtQmQN+PPsIMv75g8KS0wpn79kpUDDGFJ1cWDca2rtbc92jc5oHvXQ2AfKeM4kPI+4q8W+ddS+KojO4KwH837FKsE1L3JpbqsGeEBC/H13lYtci7V9sTrjZCsN87T8qg/VEDbfMpJeHh8GhsDsHH/xE5XhrJJBAHCHRj2xJ592OSzPoQrOK+CO/k03C0CtftrKI9CsmEXHgMJtbr8PxyegV2cCcc6l7aUaxV/6I8GFkcBRYoYLdqZPaCd+rguGs98K94DqZ43K8iT61p8zZFjAQ0Tol+IARlIGfDgEIlQwCIdoXjz31R1UYUGwAA=",
+                        "trophies": {
+                            "primaryLeague": ["1920", "1921", "1924", "1925", "1927", "1936", "1948", "1961", "1967-68"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1935", "1939", "1962", "2007"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["1979-80", "1984-85", "2000-01", "2003-04"]
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Bayer 04 Leverkusen",
+                        "abbrev": "B04",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["2024"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1993"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": ["1988"],
+                            "secondaryLeague": ["1978-79"]
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Borussia Dortmund",
+                        "abbrev": "BVB",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1956", "1957", "1963", "1994-95", "1995-96", "2001-02", "2010-11", "2011-12"],
+                            "continentalPrimaryLeague": ["1997"],
+                            "intercontinentalCup": ["1997"],
+                            "primaryCup": ["1965", "1989", "2012", "2017", "2021"],
+                            "primarySuperCup": ["1989", "1995", "1996", "2013", "2014", "2019"],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Borussia Mönchengladbach",
+                        "abbrev": "BMG",
+                        "icon": "data:image/webp;base64,UklGRvgEAABXRUJQVlA4WAoAAAAQAAAALwAALwAAQUxQSP8BAAABoLRtmyHJ1v+8ETHHtu2zsn1WtrG07Z1tLW3btm3b9jkR8R7UVEZmREwALUVip51IiIFKTPvJJ9OioYjE6faZJDQIEVml1upViWgQUnjMpfiJJA1BJPZztrMPJKEBBBb8wSN/WoTQnxS5xvl/2dcTpZ5EYgsXjyzehoR6EtO96zqq+oMZCf2IxCnOnmj2WSTUg4isVDxu9RpE1IMUHnUZp/ipCVI7kdjX2WNnH0JCzQILfO/OPy9KaCVFrnTukn0jUWoiEpu5uHPx9iTUREz7tmu36o9mIrQQiZOd3TD7HBLqRmTF4rbVaxJRF0l62KVN8bOTSF1EYi9nN84+jITGIzDft66t7F8WJzC+Atc5u3nxnUid7nHp47FORJb81T3+vRyR8UXiSOdW2SeQ0HhITPq8S5vqN6ZGoguRdVzbFG9EohMicb5zi+xLiRLdFZjlY9du1d/MQxAtSOzo3C17NxJNkCK3OHcpvp8g0VaBxX9x57+WIdJaJA5zHi/7WBJqhaRJnnUZp/q1KZFoR2RN13GKNyDRAyJxjvPEsi8iSfSpwEwfuY6q/nIuguiHxPYuo7J3IdETUuRG5/8V30uQ6FuBRX/2yD+XIor+SBzibGcfRWIASEpPuRS/MgUSQyCymmvxukQGgUicZV9AkhimAtN98t2sBDEUErsfRKINAFZQOCDSAgAAkA8AnQEqMAAwAD6RPJhIJaMioS47+ZiwEglpABXEuoY+r/ZfjDM3fzfi73gygeCekC/P/QR/rHoAZnfn7/w+4H/H/6X/yf7n7Q3rZ/Xj2Df1NX3VgTcH/FCXPuA4F991Bvddsi/Ycl0bk0ppPtM7kThMvnJSFBE+F5mw8u/zJSaxJVi3EAD++upn4csO/n4gYhv6LTqLQodX+njyr9u7Pe7PdABl79ARjBzPXsWZbwZznjO1oohzOTgW+rQrzdezeKTDNW09AwEsg1sNQvg/5lb/AQW0KO6XG97jXM+6RdnVSBkmEQjz2qnZFUItE9zdKU+mYykuBBd2V/F7Xx02nPX1zKtsxU5Hyclh6Hw/HqohV8roQE0p64Dri/2mL30yvd8scM1BNCz+Gv4L8w2C9ukWFblZVFDmOww/4TI6GUtFcuTCXfkY5X2Fvj+dhsSfd+NEkWUNsxezMiOh2FSCTPgD4FlWDXVopSuzI+5rMo0ICqBrW8cwtYnld3d725zIIPmdFmEHIy93qLz9vSK159F0gY5rtLOu1Tg5UMMAC6trHU1W4FZpvNGH13H/Jr1covJon6dHbkwtvWaRX/RrkkcVQePes2YAxAED9UX71kyEExLSSxb95xATauQ6/wJov1sFZcYEOqQOVj7d/QB4WpX4TJxU68IbaNnNX/hRKbbNNANdvw01DAX9cO46JrMYUOb41vt7zbnKOuGqETFmpI3TtDyOppAx11rQjBg571hgH0O71+G56vWcvxpIJ6MGa8sNhJSgqc8U3+Ve5j2n/dzoaC9zRcfpUfzBcAcDDDYy1DmwLcWFOqIZoaIuNuVv5tEXaWjXjHtJG08dk8/z18u0jLRs3hi7odDDF1U12p889mM1gQK1x9OPMEPz2R+YYOLy0BRKiUlgCcVTNNdXlT34r4p2BLMyBhFiSv7jVxlOnf1R/z/z+8FGKe6rucS+AAA=",
+                        "trophies": {
+                            "primaryLeague": ["1969-70", "1970-71", "1974-75", "1975-76", "1976-77"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1960", "1973", "1995"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": ["1975", "1979"],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Dresdner",
+                        "abbrev": "DRE",
+                        "icon": "",
+                        "trophies": {
+                            "primaryLeague": ["1943", "1944"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1940", "1941"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Eintracht Frankfurt",
+                        "abbrev": "SGE",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1959"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1974", "1975", "1981", "1988", "2018"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": ["1980", "2022"],
+                            "secondaryLeague": ["1997-98"]
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "FC Bayern München",
+                        "abbrev": "FCB",
+                        "icon": "data:image/webp;base64,UklGRjwIAABXRUJQVlA4WAoAAAAQAAAALwAALwAAQUxQSIwBAAABkFxr2yJF71eF5+DuDtlYANS6m32Tha2gY8EZjYKZXWv93/8if9k3E0BEMHDbNk6UwrvvxXkDsoggHhBE60nz2x8l/d9vzWQ9ggzEEEExAhkQTNSfUubSfzqbCC4ozIKlMWavOyRVfRhelWTnahbx18LCpRhtdOmdsgB1nt3GKL4W5o9B7PyiOpbCKX/vYPAz86ePekxZmpS9w7xJkc9RoyoroMraZ4qEOoA6U89K+PQrIZlxQsfKOB4HKYhx0KWvHp7dfcQQEYx9o9IA5bex8AjnTGlCygYGJMJii2a0lhAN4ILOKhwvMYDpTzWUGeDsS+2kBtxT7UJ5j80eTeltJl9qKae31nHzSm8Znq9vNOZNrcPxv0fNh/0mL9YHejH/Tm7tv0Pz73wDd9b/EerW/6l1HZiGcZ25wECEpZahLiKSATRM6+Q/qMP2dR6CARxb+giCrJn5lL0P5vnsoY3P5vv4diUf/7Ud+Lh5n2Deh5Tuc/pFfU59HJK/tEQftZY0X8M+6rWZrBX3UQBWUDggigYAABAeAJ0BKjAAMAACADQlsAJ0yhHbHs3mCWJ+yawiS/qk/afZn7wPUB+Rv+B7gH6ZdIDzAfsR/t/aG9AHoAfrt6r/qAegB+0nplfuL8EX9m/3v7a/AT+yX//wTto7mf9V/Kn0zsH9ZX60fgPy4/oHr33g7V3+T3gkAH5l/SO6n/dPQD6iead/ffQf+q/7fxBu+fYA/kv9Z/0/3VfSr/Kf8v/LeYv8u/tP/R/vfwDfzP+lf7HsB/tl7LP7Hm40RJtcyt2miuccQf+I/07UG6+Pwak/QSlWvvwNUVL03FDjaxaoiVjCJKZz4PvhmJt3ber2uylLNmj0XLUwAAD+y9HlE1h0jnlTU/fd/cpT+wxiYxt0s+LFytZWSnBgqgelpohqkrX+gagfIcWlBSonL1hEjOA3ysrd1sMmxhIP6NFCnt76BIXeZrMQhxUuw8m/1vwrhFqDR2Vl8bwMbapzNKeUv64U9t4LH8GuIRgcSXdP/rvBV+uGzwJL+M6WJJ/PJ/9KMyx9P//w9Ttw2QY+lTja7zIYmPU9AZwwWQt9edJEuv6uSdvt80Dh3l7iMzRxG6Q3HSCQHw+HC4PtvPAGNS7fXN7Kk8Uh3+Hy9JFUcD4Q/v2BmUnx0MPR4sY0Pc3EVDCL/b376WI1sUq9f6KNhZxebPXdnmLLmOnWgIdF+D3DW2PRxhsZfZzs6dxXzGV8IC6MPqFOLPMykYe6MkqeB2AZFLEDc1K29EzPmJ7vK426wXMBN5GRzuIOefl1LiEagCTnLEBRHba2L2EStUwCyDd/lfcOCqNjIw9TFMqJs+TEb20l1721rf9kd4eHvF1Vmf2sbdv0XNtMUfj5X684KgW7KUlJa46s09hgjGCHhxdKTxCTwrqLyK9kco5LM0qPI9q0DHgL/I20oNw1avhKIMCdYoIDVK5U/Sce24zYCt8FN1g/OoXvKC7dfwHxJnYdF+jThbuj6Ur/ad0CV91g8T4yFz5OKkMMFNu2Z9+rVwWdx+2alC46bsqMGC1yuScshaJy9LfBA887NU6SENFbrQKSG8GqlFjyC300Q0Mx9I5AGdUTygMXd1D6kLL17QYzhei5XOyd1JZ9oUZ4dioklzEUrJzusfL2aJdL77/+kCz3OBGL/FT/iD2jXH8S6ks+bl8+OsN8Pf/q3Ur7axyxR88jUbYNKo6+h++UCNmTR9+ayyMex6SoDpH5aBXfWhzifhCwE0CcM8zTzsyxEQFtm1RB56F9Nas+2NCWau3/Z0mpzhsxf9sH38LWtVceHaRRh5o9S2ieLpCaNLeTA64Ua7UHhncxY6z3NhGBtK30rQyWPh4PXPDqnRAhAWeJfFJl82EU1iSehdtNp620C+mUocCuyctSu5sHrxsD/kxOeNTbhW0jy3+CkwHD+k9SY4Sl43d4t85T82HygnriCHwnWlrJ/FQkcww4Y8pKGzoJCd38jz/zYBKvGLFgpdZsTUJzVarNhsQEByZYKDOc/32A9Fc2aiwMRYVxBltEecp5FTSf1dVyGPPzdNYXKlrNqtWG5apxNeF5BbEvHtD6S5CcaVfzhK66UE6gTvQLjVdAx/7IOQ51at/ce6n4bKzV5tRz7M/Mbbm1DsZEFdKyH47SzJCa/OVykTgd1YmqVPFcOiD1D9lhH5E8k6bmRA/1cAGkM76zy/mFDyQ9eSeS+LtOgnXSj4CG22bewNu8ZMfZyt+ceMASfKCdbZ2edMgzXwUtGYsAhDRDcHIzVup2MxNUP7xgU1HJ/Pl6bLSuwgVEbDTxt/40TOWH64MXrHLO97kT3aaYW+aULRQ2s7lbM4DVsvdn2GyC/UeH863aoSXTiJ0FpWDOhQ0Xpdyk5mzL9zAPn1+HMuSp/5RMAq27uiu1G3Kfbk+T7+BIE9XLQHrW0p+vLKYiL3xHvn9WC9V6KIKv42bLMHOyX8ZjhGyzrQswcL7PUtVFTc/1MUPF0kArOcgyO6cTwu+7/EcUNjrwdtqBrWWQg8Yb+7yz40xVldbXC+p/+pl3SbRtp/t8DHrdlN7qOnqtjoCGkOkJPgRZnY/Ehuhq+OKs8nuYAhIeUrkxBYv5VzHimSUPIpG9VhAkeTayXDY2EHqBkTO/4p3NDQv02BKUNYb+iyWm9HrbTZkJRNhuFZWfbfeg1WtdsjfDkODL63sv/EXBV+ou+ppz/t16sAc+at+bwMEr8WGWekS2+SqoxroX9rceE6QwWxKqhd/0E/dciKL8C+r7rQAAAA==",
+                        "trophies": {
+                            "primaryLeague": ["1932", "1968-69", "1971-72", "1972-73", "1973-74", "1979-80", "1980-81", "1984-85", "1985-86", "1986-87", "1988-89", "1989-90", "1993-94", "1996-97", "1998-99", "1999-2000", "2000-01", "2002-03", "2004-05", "2005-06", "2007-08", "2009-10", "2012-13", "2013-14", "2014-15", "2015-16", "2016-17", "2017-18", "2018-19", "2019-20", "2020-21", "2021-22", "2022-23"],
+                            "continentalPrimaryLeague": ["1974", "1975", "1976", "2001", "2013", "2020"],
+                            "intercontinentalCup": ["1976", "2001", "2013", "2020"],
+                            "primaryCup": ["1957", "1966", "1967", "1969", "1971", "1982", "1984", "1986", "1998", "2000", "2003", "2005", "2006", "2008", "2010", "2013", "2014", "2016", "2019", "2020"],
+                            "primarySuperCup": ["1987", "1990", "2010", "2012", "2016", "2017", "2018", "2020", "2021", "2022"],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": ["1996"],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "FC Schalke 04",
+                        "abbrev": "S04",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1934", "1935", "1937", "1939", "1940", "1942", "1958"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1937", "1972", "2001", "2002", "2011"],
+                            "primarySuperCup": ["2011"],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": ["1997"],
+                            "secondaryLeague": ["1981-82", "1990-91", "2021-22"]
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Fortuna Düsseldorf",
+                        "abbrev": "F95",
+                        "icon": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FF95-48x48.webp?alt=media&token=3769fc5a-009e-448a-9e31-14965b65f642",
+                        "trophies": {
+                            "primaryLeague": ["1933"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1979", "1980"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Greuther Fürth",
+                        "abbrev": "SGF",
+                        "icon": "",
+                        "trophies": {
+                            "primaryLeague": ["1914", "1926", "1929"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": [],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Hamburger SV",
+                        "abbrev": "HSV",
+                        "icon": "data:image/webp;base64,UklGRgICAABXRUJQVlA4IPYBAACwDACdASowADAAPpE+nEsloyKhpzgJILASCWwAuy+YeUcgqYDxq8wBuAP0A9f/0Af/++Ov84uwDPpUm/Ff9N9KT6wP1ETQePDK4FnIM+kAy0rGX/DGthLIpegdv0cwHR3L/0zXEGSI0gU5loaBgAD+/sJYD/z74g8Fw5pFGXfkS3t/3L2ykv53bnhPBWyTPhZ7t4nvS1EzuSV+fMfW7jmZAM45fMZQve+L2NWacssiK2g6whR2XDGmr7AK9zurZnFhW+Eq/I4OqlRhfOA3ZIepoLWejuGL5lK86Nf3b/wLdJTAIp2A9Jz01DX2Xgr9LlSDgVcEUhZGlVBlRYUPoQay393n8QWdfcsL6so7/f9hO+KOK55I3ouIZVzg9ZSsBn+lP/z4D5PUkzyaO6XOcajtl5vLhSwtnWhAAQQ8hNcOSfaOU8yF14Ie3jL3ce4SOX2me2TPG+vqzYk2os6CzQb3YEiz8U3crtonTWisK0x0pK5VEfrIMPd3gUnOczVHkS5PNmmYaj53ur3NgjroAYxP4A/4V/3ukJjJlLSxvzYf/8PMkUzqphxSzMQEIQejwBCD20v84tH83GCzFTsoUktmI93pMWZhGt3+euwhhxBcEh5Q4PXs2+VK+J+d+1SETItbln05NeDdwuDQdv7jzQ+U/n2oAAAA",
+                        "trophies": {
+                            "primaryLeague": ["1923", "1928", "1960", "1978-79", "1981-82", "1982-83"],
+                            "continentalPrimaryLeague": ["1983"],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1963", "1976", "1987"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Hannover 96",
+                        "abbrev": "H96",
+                        "icon": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FH96-48x48.png?alt=media&token=bb4d1591-7a2a-42c1-ab51-fc115a75ab90",
+                        "trophies": {
+                            "primaryLeague": ["1938", "1954"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": [],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Hertha BSC",
+                        "abbrev": "BSC",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1930", "1931"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": [],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["1989-90", "2010-11", "2012-13"]
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Karlsruher SC",
+                        "abbrev": "KSC",
+                        "icon": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FKSC-48x48.png?alt=media&token=d6a363ef-efa0-4ba4-8d47-aadf334720e7",
+                        "trophies": {
+                            "primaryLeague": ["1909"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1955", "1956"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Rapid Wien",
+                        "abbrev": "",
+                        "icon": "",
+                        "trophies": {
+                            "primaryLeague": ["1941"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1938"],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "RB Leipzig",
+                        "abbrev": "RBL",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": [],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["2022", "2023"],
+                            "primarySuperCup": ["2023"],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Rot-Weiss Essen",
+                        "abbrev": "RWE",
+                        "icon": "",
+                        "trophies": {
+                            "primaryLeague": [],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1955"],
+                            "primarySuperCup": ["1953"],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "Sport-Club Freiburg",
+                        "abbrev": "SCF",
+                        "icon": "data:image/webp;base64,UklGRqwFAABXRUJQVlA4WAoAAAAQAAAALwAALwAAQUxQSAwCAAABoKTtv2k7+v3W+sdORmDbSSutDIAt27bLmEBV07Zt2z3bdu291voV116rRhARE4B8gkZMveCF76Xvnj1nAmgEUZ5whmm3t/rPP64fD3NgMcI5d3ZSiukfMSa1R+EdWIhw6H+PQlBmCLqxNx1YhHAY8LQadWx0by8SLELHu9Soc6Pr4FmCMFyoVgVbnYCB3eCxSFFFU1wA341Er9dKRT3tSHYy7FZQ4aC1sC4kBrynVCrpzZ4gOxjWK6h41HJYF+IJxRr3wOXRY2pS1d9GwTHLcEShRtBWWJ7Dg4p1bobPchj2tVKNpA/7IstjgZIqT4HPMaxXqBO0DJbBHrhAbZ1Wx9Ajx3CVQp2gi2HM8Hig3k15Ds8o1noAPod4td7DXV75nzk8U+/+PI/7FWrdCMsxXFnvorweOF9tnVZH0AOZhnUKdYKWwnI85qn6JPgchyFfKtVIer8PmEOP+xRrBN0In2c4qFBnEyzPY1JQ1V+Gw2WBDo8qlgu6A57IM6xWKBe1GNaF6PeWUqmoVwzsABq2KZQKWgEjuhA9XlQsE/UYyE6gx0KlMmpmwRPdYDhTbYlWB2AoANLhZjXdGl0GT6IEHPs8rCblpUa3mCOKgHDsfZNCyAlRV5hzIMoSzuFII8X4jxil33bDOxClCWcYd+3v+s9fLxkBI4jyBI0Yc/Kxz3/79dOHj46AM4LIB1ZQOCB6AwAA0BAAnQEqMAAwAD6RQptJJaQioSq6qViwEglpABPVVVd7j+TfpN0qvbyjA7AjTP0J+qXmZeKB4A3y3/KewB+PP9V6WWcN6L/6/uEfy7+f/6Drn+hJ+rivpm101AXV3NUjL6Zbs+pQOjsIGkVpmb0eX6FVJE/bCABoAf7gSqhBRUmGDIacAQl5PAQuMgKCRgAA/v86PP/GDP2R7emgPNKO1NT/+LnBE0E4fQWH9l86LkH/k2TRLu8H+zeo+5l1F54WI21NlKf8/d4gn4CzD6d+Ig22HveLFnBOKaCLtM/i4b5c26CVlAT0SxuGLvzNtzH8Oldw+NQi6FhVi+miHRD/G7Zc8DxqwYnbLpzEbUDCzPGSyRCt6ol88tl+uTmiG+iIuj2rlMHQHTjJQhx677WNCX5Y0LUL/nA4mJrDWUA6NC8BxPHxkNaGCR1ouPR8HF+0umlzWMcZ3V+8Nn+ElucijChDthBcf5C5mZ8SOBfQryVngaA6Cr/shf8YvlW8v2pIsp9Ucr6h1yenVmaPEC5OCd+iWJLaQM3+u+JbSzPe44wm3Vj6HZrx8UakgH6F2Gw75cfS/+BU/98xlidOCNIgemgoCgifa/9lFC6FNLC/ibx3x933+QajVOCP6nFm725W+l8SXc2TBaC58Aakvg1V9qzlrKyxzM922ZYLOvwd+GvNiQw7hZitDO28Y+a+52b1Svf1Y9OreEqvKlBPGiK+fqLjSlrpqSrYtsKdlEQRM0ZV0XYs6rFZ8/qBbYDd1efrGs4vONW7nIoCY0iGFzx/lfja1NSO9UVOtZz5kH7nMGOo0c6v9BQU+gGNubgux5Rq9lgITTEnLH1Sj0TN4Sle6I5nfrc5oj5cu6X3EqrasSfW032vhLiLc6v0P/yIfdTIB5vdIOzDvw9KS3q2Dw8rOS08gBj//Kc8dnW2+earIH/UE7hloZmBinJx+WwhGubp5L0m1do1QzxYf6e8UvbTcOvMxCOwILGeqRuFKeBOuXx5MbVWNl1qIv8Hb2wsbir0x2CSmMrtD9UVyqblim1zTJlPsncEBkRqbIWJHKtGC1mLy/2JAzp7DSQr7w5ei9hSdjjI51Y/fSUGCGrNyudFdrQ+XHx5TKfFrZ/Gp4e5OkRi1CnzRzhn3qcteWJC4e6Mx4mlZ+HDoj2PEdkrAIA46WmsZttXiHvEAAA=",
+                        "trophies": {
+                            "primaryLeague": [],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": [],
+                            "primarySuperCup": [],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["1992-93", "2002-03", "2008-09", "2015-16"]
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "SV Werder Bremen",
+                        "abbrev": "SVW",
+                        "icon": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FSVW-48x48.webp?alt=media&token=e7b68f97-833d-46f3-84b1-0b9e53bea8ba",
+                        "trophies": {
+                            "primaryLeague": ["1964-65", "1987-88", "1992-93", "2003-04"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1961", "1991", "1994", "1999", "2004", "2009"],
+                            "primarySuperCup": ["1988", "1993", "1994"],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["1980-81"]
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "VfB Stuttgart",
+                        "abbrev": "VFB",
+                        "icon": "data:image/webp;base64,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",
+                        "trophies": {
+                            "primaryLeague": ["1950", "1952", "1983-84", "1991-92", "2006-07"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["1954", "1958", "1997"],
+                            "primarySuperCup": ["1992"],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": ["1976-77", "2016-17"]
+                        },
+                        "relegations": []
+                    },
+                    {
+                        "name": "VfL Wolfsburg",
+                        "abbrev": "WOB",
+                        "icon": "https://firebasestorage.googleapis.com/v0/b/inforbs-7725c.appspot.com/o/src%2Fclubs%2Fgermany%2Fx48%2FWOB-48x48.webp?alt=media&token=86a40a8f-b17c-4f24-a145-bb1adf6f5777",
+                        "trophies": {
+                            "primaryLeague": ["2008-09"],
+                            "continentalPrimaryLeague": [],
+                            "intercontinentalCup": [],
+                            "primaryCup": ["2015"],
+                            "primarySuperCup": ["2015"],
+                            "contientalCup": [],
+                            "continentalSecondaryLeague": [],
+                            "secondaryLeague": []
+                        },
+                        "relegations": []
+                    }
+                ]
+            }
+        }
+    ]
+}
