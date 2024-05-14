@@ -1,7 +1,7 @@
 import { FC, useEffect, useRef, useState } from 'react'
-import { ResultProps } from './ClubProps';
+import { MatchesProps } from './ClubProps';
 
-const EvaluationStats: FC<{data: ResultProps[]}> = (({data}) => {
+const EvaluationStats: FC<{data: MatchesProps[]}> = (({data}) => {
     const isLoadedRef = useRef<boolean>(false);
     const [evaluation, setEvaluation] = useState<object>({});
     
@@ -21,28 +21,28 @@ const EvaluationStats: FC<{data: ResultProps[]}> = (({data}) => {
                 return;
             }
             data.forEach((item) => {
-                if (item.home.club.abbrev === "B04") {
-                    if (item.home.score > item.away.score) {
+                if (item.club.short.match("B04")) {
+                    if (item.score.home > item.score.away) {
                         Object.assign(gridData, { wins: gridData.wins + 1 });
-                    } else if (item.away.score > item.home.score) {
+                    } else if (item.score.away > item.score.home) {
                         Object.assign(gridData, { losses: gridData.losses + 1 });
                     }
                     Object.assign(gridData, {
-                        goalsScored: item.home.score + gridData.goalsScored,
-                        goalsAgainst: item.away.score + gridData.goalsAgainst
+                        goalsScored: item.score.home + gridData.goalsScored,
+                        goalsAgainst: item.score.away + gridData.goalsAgainst
                     });
                 } else {
-                    if (item.away.score > item.home.score) {
+                    if (item.score.away > item.score.home) {
                         Object.assign(gridData, { wins: gridData.wins + 1 });
-                    } else if (item.home.score > item.away.score) {
+                    } else if (item.score.home > item.score.away) {
                         Object.assign(gridData, { losses: gridData.losses + 1 });
                     }
                     Object.assign(gridData, {
-                        goalsScored: item.away.score + gridData.goalsScored,
-                        goalsAgainst: item.home.score + gridData.goalsAgainst
+                        goalsScored: item.score.away + gridData.goalsScored,
+                        goalsAgainst: item.score.home + gridData.goalsAgainst
                     });
                 }
-                if (item.home.score === item.away.score) {
+                if (item.score.home === item.score.away) {
                     Object.assign(gridData, { draws: gridData.draws + 1 });
                 }
             })

@@ -6,7 +6,7 @@ import ManagerStats from '../ManagerStats';
 
 const ClubMatch: FC<{ data?: ManagerStatsProps[] }> = (({ data }) => {
     return data?.map((item, index) => (
-        <div key={index} className="flex flex-col gap-0 border-2 border-yellow-500 rounded-md">
+        <div key={index} className="flex flex-col">
             <div className="flex flex-col md:flex-row items-stretch justify-center bg-slate-900 py-4 px-2 rounded-md border-none">
                 <ManagerStats data={item.profile} />
                 <EvaluationStats data={item.results} />

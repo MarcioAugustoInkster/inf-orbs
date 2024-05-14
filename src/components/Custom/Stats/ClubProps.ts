@@ -1,87 +1,92 @@
 export type ManagerProps = {
-    fullname: string,
-    image: string,
-    birthDate: string,
-    age: number,
-    sinceFrom: string,
-    status: number,
+    fullname: string;
+    image: string;
+    birthDate: string;
+    age: number;
+    sinceFrom: string;
+    status: number;
 }
 
 export type MatchTimeProps = {
-    league: string,
-    matchdayCode: number,
-    time: number,
-    extratime: number,
-    penalty?: boolean
+    league: string;
+    matchdayCode: number;
+    time: number;
+    extratime: number;
+    penalty?: boolean;
 }
 
 export type MatchProps = {
-    logo?: string,
+    logo?: string;
     club: {
-        normal: string,
+        normal: string;
         abbrev: string
-    },
-    score: number,
+    };
+    score: number;
 }
 
-export type ResultProps = {
-    code: number,
-    league: string,
-    round: string | number,
-    matchday: {
-        normal: string,
-        abbrev: string
-    },
-    home: MatchProps,
-    away: MatchProps,
-    result: string,
-    penalties: {
-        home: number,
-        away: number
-    },
-    hasPenalty: boolean
+export type ScoreProps = {
+    type: string;
+    profileURL: string;
+    time: number;
+    addedTime: number;
+    penalty: boolean;
+}
+
+export type MatchesProps = {
+    matchday: string;
+    league: {
+        title: string;
+        logoURL: string;
+        stage: string;
+    };
+    club: {
+        name: string;
+        short: string;
+        imageURL: string;
+    };
+    score: {
+        home: number;
+        away: number;
+    };
+    result: number;
+    location: number;
+    scores: ScoreProps[];
+};
+
+export type MatchComplianceProps = {
+    matches: MatchesProps[];
 }
 
 export type PlayerProps = {
-    image: string,
-    fullname: string,
-    birthDate: string,
-    status: number,
-    goals: MatchTimeProps[],
-    yellowCards: MatchTimeProps[],
-    redCards: MatchTimeProps[]
+    image: string;
+    fullname: string;
+    birthDate: string;
+    status: number;
+    goals: MatchTimeProps[];
+    yellowCards: MatchTimeProps[];
+    redCards: MatchTimeProps[];
 }
 
 export type ManagerStatsProps = {
-    profile: ManagerProps,
-    results: ResultProps[]
+    profile: ManagerProps;
+    results: MatchesProps[];
 }
 
 export type PlayerStats = {
-    name: string,
-    image?: string,
-    birthDate: string,
+    name: string;
+    image?: string;
+    birthDate: string;
     nationality: {
-        country: string,
+        country: string;
         flag?: string
-    },
-    position: string,
-    number: number,
-    active: number,
-}
-
-export type ResultStatsProps = {
-    club: {
-        normal: string,
-        abbrev: string
-    },
-    logo: string,
-    active: boolean
+    };
+    position: string;
+    number: number;
+    active: number;
 }
 
 export type ClubProps = {
-    managers?: ManagerStatsProps[],
-    players?: PlayerProps[],
-    nationalities?: PlayerStats[],
-    results?: ResultStatsProps[]
+    managers?: ManagerStatsProps[];
+    players?: PlayerProps[];
+    nationalities?: PlayerStats[];
 }

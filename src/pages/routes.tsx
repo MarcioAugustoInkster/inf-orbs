@@ -9,7 +9,7 @@ import Statistics from './Leagues/Statistics/Statistics';
 import Runners from './Leagues/Runners/Runners';
 import TableSeason from './Table/TableSeason';
 // import Graphics from './graphics/Graphics';
-import MatchCompliance from './Compliance/MatchCompliance';
+// import MatchCompliance from './Compliance/MatchCompliance';
 import Home from './Home/Home';
 
 const Routes: RouteObject[] = [
@@ -80,12 +80,12 @@ const Routes: RouteObject[] = [
             //     element: <Graphics />,
             //     errorElement: <NotFound />,
             // },
-            {
-                id: 'matches',
-                path: 'matches',
-                element: <MatchCompliance />,
-                errorElement: <NotFound />,
-            }
+            // {
+            //     id: 'matches',
+            //     path: 'matches',
+            //     element: <MatchCompliance />,
+            //     errorElement: <NotFound />,
+            // }
         ]
     },
     {

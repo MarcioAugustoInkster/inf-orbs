@@ -6,7 +6,6 @@ import ClubMatch from '../../components/Custom/Stats/Group/ClubMatch';
 import matchData from '../../assets/json/clubs/match-data.json';
 import PlayerMatch from '../../components/Custom/Stats/Group/PlayerMatch';
 import TeamSquad from '../../components/Custom/Stats/TeamSquad';
-import Result from '../../components/Custom/Stats/Group/Result';
 
 const Managers = () => {
     const { country, club } = useParams();
@@ -14,7 +13,7 @@ const Managers = () => {
     const resultData = matchData.data.find(el => el.countryAbbrev === country && el.clubAbbrev === club);
     
     const tabIndexes = [
-        'Progress', 'Analisys', 'Squad', 'Encounter'
+        'Progress', 'Analisys', 'Squad'
     ];
 
     return (
@@ -31,9 +30,6 @@ const Managers = () => {
                 </TabPanel>
                 <TabPanel value={2}>
                     <TeamSquad data={resultData?.evaluation.nationalities} />
-                </TabPanel>
-                <TabPanel value={3}>
-                    <Result data={resultData?.evaluation.results} />
                 </TabPanel>
             </Tabs>
         </Section>
